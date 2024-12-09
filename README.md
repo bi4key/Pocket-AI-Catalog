@@ -10,27 +10,23 @@ Here I put some useful stuff.
 
 # 1 - Mobile Apps
 
---------------------
-
 Actually you have 3 options.
 I sort App by simplicity.
 You can choose which App is better for you.
 
---------------------
-
-## 1 - SmolChat
+## Number 1 - SmolChat
 
 SmolChat - On-Device Inference of SLMs in Android
 
 https://github.com/shubham0204/SmolChat-Android
 
-## 2 - PocketPal
+## Number 2 - PocketPal
 
 PocketPal AI
 
 https://github.com/a-ghorbani/pocketpal-ai
 
-## 3 - ChatterUI
+## Number 3 - ChatterUI
 
 ChatterUI - A simple app for LLMs
 
@@ -40,11 +36,9 @@ https://github.com/Vali-98/ChatterUI
 
 # 2 Models
 
---------------------
+### SLM (Small Language Models)
 
-## SLM (Small Language Models)
-
-/ CHAT /
+### Category / CHAT /
 
 ### Llama 3.2
 - 1B
@@ -61,7 +55,7 @@ https://github.com/Vali-98/ChatterUI
 ### Phi 3.5
 - 3.8B
 
-/ CHAT NSFW /
+### Category / CHAT NSFW /
 
 ### NSFW
 
