@@ -38,7 +38,7 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 ---
 
 **Links**
-- **Resources** l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#3---links
+- **Resources** l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-links
 
 ---
 
@@ -164,6 +164,8 @@ _ChatterUI - A simple app for LLMs_
 https://github.com/Vali-98/ChatterUI
 
 Support: Android
+
+---
 
 # Apps Console
 
@@ -385,9 +387,7 @@ _Models for big consumer and enterprise device_
 
 ---
 
-# 3 - Links
-
----
+# Links
 
 Some list of small LLM ( SLM ) :
 https://parakeet-nest.github.io/awesome-slms/
