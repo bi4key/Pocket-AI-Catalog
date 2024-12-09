@@ -1,4 +1,4 @@
-_Page Updated: **2024.12.09** by **bi4key**_
+_Page Updated: **2024.12.10** by **bi4key**_
 
 # **Pocket-AI-Catalog**
 
@@ -54,57 +54,57 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 List of online Chat AI
 
 **OPENAI** | 
-:---: |
+| :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
 https://openai.com/  | 
 
 &nbsp;
 
 **GEMINI** | 
+| :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-:---: |
 https://gemini.google.com/ | 
 
 &nbsp;
 
 **GROK** | 
+| :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-:---: |
 https://x.ai/ |
 
 &nbsp;
 
 **PERPLEXITY** |
+| :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-:---: |
 https://www.perplexity.ai/ |
 
 &nbsp;
 
 **BING** |
+| :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-:---: |
 https://www.bing.com/chat |
 
 &nbsp;
 
 **META** |
+| :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-:---: |
 https://www.meta.ai/ |
 
 &nbsp;
 
 **GROQ** |
+| :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-:---: |
 https://groq.com/ |
 
 &nbsp;
 
 **DuckDuckGo** |
+| :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-:---: |
 https://duckduckgo.com/?q=DuckDuckGo&ia=chat |
 
 &nbsp;
@@ -121,32 +121,32 @@ You can choose which App is better for you.
 &nbsp;
 
 **LM Studio** |
+| :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-:---: |
 https://lmstudio.ai/ |
 Support: Windows l MacOS l Linux |
 
 &nbsp;
 
 **Jan** |
+| :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-:---: |
 https://jan.ai/ |
 Support: Windows l MacOS l Linux |
 
 &nbsp;
 
 **Msty** |
+| :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-:---: |
 https://msty.app/ |
 Support: Windows l MacOS l Linux |
 
 &nbsp;
 
 **GPT4ALL** |
+| :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-:---: |
 https://www.nomic.ai/gpt4all |
 Support: Windows l MacOS l Linux |
 
@@ -165,8 +165,8 @@ You can choose which App is better for you.
 &nbsp;
 
 | **SmolChat**                           |
+| :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-|:---:|
 | _SmolChat - On-Device Inference of SLMs in Android_ |
 | https://github.com/shubham0204/SmolChat-Android |
 | Support: Android                       |
@@ -174,8 +174,8 @@ You can choose which App is better for you.
 &nbsp;
 
 | **PocketPal**                          |
+| :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-|:---:|
 | _PocketPal AI_                         |
 | https://github.com/a-ghorbani/pocketpal-ai |
 | Support: Android iPhone                |
@@ -183,8 +183,8 @@ You can choose which App is better for you.
 &nbsp;
 
 | **ChatterUI**                          |
+| :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-|:---:|
 | _ChatterUI - A simple app for LLMs_   |
 | https://github.com/Vali-98/ChatterUI |
 | Support: Android                       |
