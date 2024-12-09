@@ -4,22 +4,22 @@ _Page Updated: **2024.12.09** by **bi4key**_
 
 Here I put some useful stuff.
 
-If you think something missing send me a message here:
+If you think something is missing send me a message here:
 
 https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 
 ---
 
-**Online Chat**
-- **List** l [Online Chat -> List](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#online-chat)
+**Online AI Chat**
+- **List** l [Online AI Chat -> List](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#online-ai-chat)
 
 ---
 
-**Apps:**
-- **PC** l [Apps -> PC](https://github.com/bi4key/Pocket-AI-Catalog#apps-pc)
-- **Mobile** l [Apps -> Mobile](https://github.com/bi4key/Pocket-AI-Catalog#apps-mobile)
-- **Console** l [Apps -> Console](https://github.com/bi4key/Pocket-AI-Catalog#apps-console)
-- **API** l [Apps -> API](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#apps-api)
+**AI Apps:**
+- **PC** l [AI Apps -> PC](https://github.com/bi4key/Pocket-AI-Catalog#ai-apps-pc)
+- **Mobile** l [AI Apps -> Mobile](https://github.com/bi4key/Pocket-AI-Catalog#ai-apps-mobile)
+- **Console** l [AI Apps -> Console](https://github.com/bi4key/Pocket-AI-Catalog#ai-apps-console)
+- **API** l [AI Apps -> API](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#ai-apps-api)
 
 ---
 
@@ -47,7 +47,7 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 
 ---
 
-# Online Chat
+# Online AI Chat
 
 List of online Chat AI
 
@@ -105,7 +105,7 @@ https://duckduckgo.com/?q=DuckDuckGo&ia=chat
 
 ---
 
-# Apps PC
+# AI Apps PC
 
 I sort App by simplicity.
 You can choose which App is better for you.
@@ -144,7 +144,7 @@ Support: Windows l MacOS l Linux
 
 ---
 
-# Apps Mobile 
+# AI Apps Mobile 
 
 Actually you have 3 options.
 I sort App by simplicity.
@@ -182,7 +182,7 @@ Support: Android
 
 ---
 
-# Apps Console
+# AI Apps Console
 
 **Ollama**
 
@@ -192,7 +192,7 @@ Support: Windows l MacOS l Linux
 
 ---
 
-# Apps API
+# AI Apps API
 
 **OPENAI**
 
