@@ -59,43 +59,43 @@ List of online Chat AI
 
 https://openai.com/
 
-________________________________________
+---
 
 **GEMINI**
 
 https://gemini.google.com/
 
-________________________________________
+---
 
 **GROK**
 
 https://x.ai/
 
-________________________________________
+---
 
 **PERPLEXITY**
 
 https://www.perplexity.ai/
 
-________________________________________
+---
 
 **BING**
 
 https://www.bing.com/chat
 
-________________________________________
+---
 
 **META**
 
 https://www.meta.ai/
 
-________________________________________
+---
 
 **GROQ**
 
 https://groq.com/
 
-________________________________________
+---
 
 **DuckDuckGo**
 
@@ -111,7 +111,7 @@ https://duckduckgo.com/?q=DuckDuckGo&ia=chat
 I sort App by simplicity.
 You can choose which App is better for you.
 
-________________________________________
+---
 
 **LM Studio**
 
@@ -119,7 +119,7 @@ https://lmstudio.ai/
 
 Support: Windows l MacOS l Linux
 
-________________________________________
+---
 
 **Jan**
 
@@ -127,7 +127,7 @@ https://jan.ai/
 
 Support: Windows l MacOS l Linux
 
-________________________________________
+---
 
 **Msty**
 
@@ -135,7 +135,7 @@ https://msty.app/
 
 Support: Windows l MacOS l Linux
 
-________________________________________
+---
 
 **GPT4ALL**
 
@@ -153,7 +153,7 @@ Actually you have 3 options.
 I sort App by simplicity.
 You can choose which App is better for you.
 
-________________________________________
+---
 
 **SmolChat**
 
@@ -163,7 +163,7 @@ https://github.com/shubham0204/SmolChat-Android
 
 Support: Android
 
-________________________________________
+---
 
 **PocketPal**
 
@@ -173,7 +173,7 @@ https://github.com/a-ghorbani/pocketpal-ai
 
 Support: Android l iPhone
 
-________________________________________
+---
 
 **ChatterUI**
 
@@ -205,25 +205,25 @@ Support: Windows l MacOS l Linux
 
 https://openai.com/
 
-________________________________________
+---
 
 **ANTROPIC**
 
 https://www.anthropic.com/
 
-________________________________________
+---
 
 **GEMINI**
 
 https://gemini.google.com/
 
-________________________________________
+---
 
 **GROK**
 
 https://x.ai/
 
-________________________________________
+---
 
 **GROQ**
 
@@ -263,14 +263,14 @@ Llama 3.2 1B Instruct Q8 l [Download GGUF](https://huggingface.co/unsloth/Llama-
 
 Llama 3.2 3B Instruct Q4 l [Download GGUF](https://huggingface.co/hugging-quants/Llama-3.2-3B-Instruct-Q4_K_M-GGUF/blob/main/llama-3.2-3b-instruct-q4_k_m.gguf)
 
-________________________________________
+---
 
 **Gemma 2**
 - 2B l https://huggingface.co/bartowski/gemma-2-2b-it-GGUF 
 
 Gemma 2 2B Instruct Q4 l [Download GGUF](https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/blob/main/gemma-2-2b-it-Q4_K_M.gguf)
 
-________________________________________
+---
 
 **Qwen 2.5**
 - 0.5 B l https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF
@@ -283,14 +283,14 @@ Qwen 2.5 1.5B Instruct Q4 l [Download GGUF](https://huggingface.co/Qwen/Qwen2.5-
 
 Qwen 2.5 3B Instruct Q4 l [Download GGUF](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GGUF/blob/main/qwen2.5-3b-instruct-q4_k_m.gguf)
 
-________________________________________
+---
 
 **Phi 3.5**
 - 3.8B l https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF
 
 Phi 3.5 mini Instruct Q4 l [Download GGUF](https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF/blob/main/Phi-3.5-mini-instruct.Q4_K_M.gguf)
 
-________________________________________
+---
 
 **SmolLM2**
 - 360M l https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF 
@@ -300,14 +300,14 @@ SmolLM2 360M Instruct Q8 l [Download GGUF](https://huggingface.co/HuggingFaceTB/
 
 SmolLM2 1.7B Instruct Q4 l [Download GGUF](https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/blob/main/SmolLM2-1.7B-Instruct-Q4_K_L.gguf)
 
-________________________________________
+---
 
 **Danube 3**
 - 4B l https://huggingface.co/h2oai/h2o-danube3-4b-chat-GGUF
 
 Danube 3 Instruct Q4 l [Download GGUF](https://huggingface.co/h2oai/h2o-danube3-4b-chat-GGUF/blob/main/h2o-danube3-4b-chat-Q4_K_M.gguf)
 
-________________________________________
+---
 
 **SummLlama**
 - 3B l https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF
@@ -325,7 +325,7 @@ SummLlama 3.2 3B Instruct Q4 l [Download GGUF](https://huggingface.co/tensorbloc
 
 Impish LLAMA 3B Q4 l [Download GGUF](https://huggingface.co/mradermacher/Impish_LLAMA_3B-GGUF/blob/main/Impish_LLAMA_3B.Q4_K_M.gguf)
 
-________________________________________
+---
 
 **Gemmasutra Mini v2**
 - 2B l https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF
@@ -369,13 +369,13 @@ _Models for pc consumer and enterprise device_
  
 
 
-________________________________________
+---
 
 **Gemma 2**
 - 2B
 
  
-________________________________________
+---
 
 **Qwen 2.5**
 - 0.5 B
@@ -384,7 +384,7 @@ ________________________________________
 
 
 
-________________________________________
+---
 
 **Phi 3.5**
 - 3.8B
@@ -402,7 +402,7 @@ ________________________________________
 
 
 
-________________________________________
+---
 
 **Gemmasutra Mini v2**
 - 2B
