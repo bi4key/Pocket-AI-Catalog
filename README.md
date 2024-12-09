@@ -5,7 +5,7 @@ _Page Updated: 2024.12.09 by bi4key_
 Here I put some useful stuff.
 
 **Online Chat**
-- List l 
+- List l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#online-chat
 
 **Apps:**
 - PC l https://github.com/bi4key/Pocket-AI-Catalog#apps-pc
@@ -29,6 +29,8 @@ Here I put some useful stuff.
 --------------------
 
 # Online Chat
+
+List of online Chat AI
 
 °
 
