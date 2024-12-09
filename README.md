@@ -2,65 +2,112 @@ Welcome to the Pocket-AI-Catalog.
 
 Here I put some useful stuff.
 
-1. **Mobile Apps**
-2. **Models**
-3. **Links**
+**Apps:**
+- PC
+- Mobile
+- Console
+
+**Models:**
+- Chat
+- Chat Code
+- Chat NSFW
+
+**Links**
 
 --------------------
 
-# 1 - Mobile Apps
+# Apps PC
+
+I sort App by simplicity.
+You can choose which App is better for you.
+
+**LM Studio**
+
+https://lmstudio.ai/
+
+Windows l MacOS l Linux
+
+**Jan**
+
+https://jan.ai/
+
+Windows l MacOS l Linux
+
+**Msty**
+
+https://msty.app/
+
+Windows l MacOS l Linux
+
+**GPT4ALL**
+
+https://www.nomic.ai/gpt4all
+
+Windows l MacOS l Linux
+
+
+# Apps Mobile 
 
 Actually you have 3 options.
 I sort App by simplicity.
 You can choose which App is better for you.
 
-## Number 1 - SmolChat
+**SmolChat**
 
-**SmolChat - On-Device Inference of SLMs in Android**
+_SmolChat - On-Device Inference of SLMs in Android_
 
 https://github.com/shubham0204/SmolChat-Android
 
-## Number 2 - PocketPal
+**PocketPal**
 
-**PocketPal AI**
+_PocketPal AI_
 
 https://github.com/a-ghorbani/pocketpal-ai
 
-## Number 3 - ChatterUI
+**ChatterUI**
 
-**ChatterUI - A simple app for LLMs**
+_ChatterUI - A simple app for LLMs_
 
 https://github.com/Vali-98/ChatterUI
 
+# Apps Console
+
+**Ollama**
+
+https://ollama.com/
+
+Windows l MacOS l Linux
+
 --------------------
 
-# 2 Models
+# Models
 
 ### SLM (Small Language Models)
 
-***Category / CHAT /***
+## Chat
 
-### Llama 3.2
+**Llama 3.2**
 - 1B
 - 3B
 
-### Gemma 2
+**Gemma 2**
 - 2B
 
-### Qwen 2.5
+**Qwen 2.5**
 - 0.5 B
 - 1.5 B
 - 3 B
 
-### Phi 3.5
+**Phi 3.5**
 - 3.8B
 
-***Category / CHAT NSFW /***
+### Chat NSFW
 
-### NSFW
+**Impish LLAMA**
+- 3B
 
-- Impish LLAMA 3B
-- Gemmasutra Mini 2B v2
+**Gemmasutra Mini v2**
+- 2B
 
 --------------------
 
@@ -71,5 +118,8 @@ https://github.com/Vali-98/ChatterUI
 Some list of small LLM ( SLM ) :
 https://parakeet-nest.github.io/awesome-slms/
 
+https://getstream.io/blog/best-local-llm-tools/
+
+https://www.datacamp.com/tutorial/run-llms-locally-tutorial
 
 
