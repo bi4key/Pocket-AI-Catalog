@@ -8,6 +8,8 @@ If you think something missing send me a message here:
 
 https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 
+---
+
 **Online Chat**
 - **List** l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#online-chat
 
