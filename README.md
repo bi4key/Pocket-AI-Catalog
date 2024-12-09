@@ -2,6 +2,46 @@ Welcome to the Pocket-AI-Catalog.
 
 Here I put some useful stuff.
 
+1. Mobile Apps
+2. Models
+3. Links
+
+--------------------
+
+# 1 - Mobile Apps
+
+--------------------
+
+Actually you have 3 options.
+I sort App by simplicity.
+You can choose which App is better for you.
+
+--------------------
+
+# 1 - SmolChat
+
+SmolChat - On-Device Inference of SLMs in Android
+
+https://github.com/shubham0204/SmolChat-Android
+
+# 2 - PocketPal
+
+PocketPal AI
+
+https://github.com/a-ghorbani/pocketpal-ai
+
+# 3 - ChatterUI
+
+ChatterUI - A simple app for LLMs
+
+https://github.com/Vali-98/ChatterUI
+
+--------------------
+
+# 2 Models
+
+--------------------
+
 # SLM (Small Language Models)
 
 ## Llama 3.2:
@@ -17,6 +57,10 @@ Here I put some useful stuff.
 - 3 B
 
 ## Phi 3.5
+
+--------------------
+
+3 - Links
 
 --------------------
 
