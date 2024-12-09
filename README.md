@@ -4,6 +4,9 @@ _Page Updated: 2024.12.09 by bi4key_
 
 Here I put some useful stuff.
 
+**Online Chat**
+- List l 
+
 **Apps:**
 - PC l https://github.com/bi4key/Pocket-AI-Catalog#apps-pc
 - Mobile l https://github.com/bi4key/Pocket-AI-Catalog#apps-mobile
@@ -24,6 +27,50 @@ Here I put some useful stuff.
 - Resources l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#3---links
 
 --------------------
+
+# Online Chat
+
+°
+
+**OPENAI**
+
+https://openai.com/
+
+•
+
+**GEMINI**
+
+https://gemini.google.com/
+
+°
+
+**GROK**
+
+https://x.ai/
+
+°
+
+**PERPLEXITY**
+
+https://www.perplexity.ai/
+
+°
+
+**BING**
+
+https://www.bing.com/chat
+
+°
+
+**META**
+
+https://www.meta.ai/
+
+°
+
+**GROQ**
+
+https://groq.com/
 
 # Apps PC
 
