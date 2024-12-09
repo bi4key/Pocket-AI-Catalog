@@ -10,10 +10,15 @@ Here I put some useful stuff.
 - Console l https://github.com/bi4key/Pocket-AI-Catalog#apps-console
 - API l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#apps-api
 
-**Models:**
+**Models SLM (Small Language Models):**
 - Chat l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat 
 - Chat NSFW l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-nsfw 
 - Chat Code l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-code
+
+**Models LLM (Large Language Models):**
+- Chat l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-1 
+- Chat NSFW l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-nsfw-1 
+- Chat Code l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-code-1
 
 **Links**
 - Resources l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#3---links
