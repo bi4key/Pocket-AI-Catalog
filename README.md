@@ -18,19 +18,19 @@ You can choose which App is better for you.
 
 --------------------
 
-# 1 - SmolChat
+## 1 - SmolChat
 
 SmolChat - On-Device Inference of SLMs in Android
 
 https://github.com/shubham0204/SmolChat-Android
 
-# 2 - PocketPal
+## 2 - PocketPal
 
 PocketPal AI
 
 https://github.com/a-ghorbani/pocketpal-ai
 
-# 3 - ChatterUI
+## 3 - ChatterUI
 
 ChatterUI - A simple app for LLMs
 
@@ -42,25 +42,35 @@ https://github.com/Vali-98/ChatterUI
 
 --------------------
 
-# SLM (Small Language Models)
+## SLM (Small Language Models)
 
-## Llama 3.2:
+/ CHAT /
+
+### Llama 3.2
 - 1B
 - 3B
 
-## Gemma 2
+### Gemma 2
 - 2B
 
-## Qwen 2.5
+### Qwen 2.5
 - 0.5 B
 - 1.5 B
 - 3 B
 
-## Phi 3.5
+### Phi 3.5
+- 3.8B
+
+/ CHAT NSFW /
+
+### NSFW
+
+- Impish LLAMA 3B
+- Gemmasutra Mini 2B v2
 
 --------------------
 
-3 - Links
+# 3 - Links
 
 --------------------
 
