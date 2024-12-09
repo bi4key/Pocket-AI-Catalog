@@ -267,7 +267,7 @@ Llama 3.2 1B Instruct Q8 l [Download GGUF](https://huggingface.co/unsloth/Llama-
 Llama 3.2 3B Instruct Q4 l [Download GGUF](https://huggingface.co/hugging-quants/Llama-3.2-3B-Instruct-Q4_K_M-GGUF/blob/main/llama-3.2-3b-instruct-q4_k_m.gguf)
 
 
-° 
+<hr>
 
 **Gemma 2**
 - 2B l https://huggingface.co/bartowski/gemma-2-2b-it-GGUF 
