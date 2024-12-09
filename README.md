@@ -38,7 +38,7 @@ https://github.com/Vali-98/ChatterUI
 
 ### SLM (Small Language Models)
 
-### Category / CHAT /
+***Category / CHAT /***
 
 ### Llama 3.2
 - 1B
@@ -55,7 +55,7 @@ https://github.com/Vali-98/ChatterUI
 ### Phi 3.5
 - 3.8B
 
-### Category / CHAT NSFW /
+***Category / CHAT NSFW /***
 
 ### NSFW
 
