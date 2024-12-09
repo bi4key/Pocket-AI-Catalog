@@ -1,30 +1,34 @@
-_Page Updated: 2024.12.09 by bi4key_
+_Page Updated: **2024.12.09** by **bi4key**_
 
 # **Pocket-AI-Catalog**
 
 Here I put some useful stuff.
 
+If you think something missing send me a message here:
+
+https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
+
 **Online Chat**
-- List l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#online-chat
+- **List** l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#online-chat
 
 **Apps:**
-- PC l https://github.com/bi4key/Pocket-AI-Catalog#apps-pc
-- Mobile l https://github.com/bi4key/Pocket-AI-Catalog#apps-mobile
-- Console l https://github.com/bi4key/Pocket-AI-Catalog#apps-console
-- API l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#apps-api
+- **PC** l https://github.com/bi4key/Pocket-AI-Catalog#apps-pc
+- **Mobile** l https://github.com/bi4key/Pocket-AI-Catalog#apps-mobile
+- **Console** l https://github.com/bi4key/Pocket-AI-Catalog#apps-console
+- **API** l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#apps-api
 
 **Models SLM (Small Language Models):**
-- Chat l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat 
-- Chat NSFW l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-nsfw 
-- Chat Code l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-code
+- **Chat** l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat 
+- **Chat NSFW** l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-nsfw 
+- **Chat Code** l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-code
 
 **Models LLM (Large Language Models):**
-- Chat l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-1 
+- **Chat** l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-1 
 - Chat NSFW l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-nsfw-1 
-- Chat Code l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-code-1
+- **Chat Code** l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-code-1
 
 **Links**
-- Resources l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#3---links
+- **Resources** l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#3---links
 
 --------------------
 
