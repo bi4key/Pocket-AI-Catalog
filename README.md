@@ -54,8 +54,8 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 List of online Chat AI
 
 **OPENAI** | 
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
 :---: |
+| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
 https://openai.com/  | 
 
 &nbsp;
