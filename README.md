@@ -1,6 +1,6 @@
 _Page Updated: 2024.12.09 by bi4key_
 
-# **Welcome to the Pocket-AI-Catalog**
+# **Pocket-AI-Catalog**
 
 Here I put some useful stuff.
 
