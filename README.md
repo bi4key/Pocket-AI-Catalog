@@ -257,13 +257,20 @@ _Models for mobile device_
 - 1B l https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-GGUF
 - 3B l https://huggingface.co/unsloth/Llama-3.2-3B-Instruct-GGUF
 
+
 _GGUF_
+
+
+```
 
 Llama 3.2 1B Instruct Q4 l [Download GGUF](https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-GGUF/blob/main/Llama-3.2-1B-Instruct-Q4_K_M.gguf)
 
 Llama 3.2 1B Instruct Q8 l [Download GGUF](https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-GGUF/blob/main/Llama-3.2-1B-Instruct-Q8_0.gguf)
 
 Llama 3.2 3B Instruct Q4 l [Download GGUF](https://huggingface.co/hugging-quants/Llama-3.2-3B-Instruct-Q4_K_M-GGUF/blob/main/llama-3.2-3b-instruct-q4_k_m.gguf)
+
+
+```
 
 ° 
 
