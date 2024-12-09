@@ -59,7 +59,7 @@ List of online Chat AI
 
 https://openai.com/
 
-•
+°
 
 **GEMINI**
 
@@ -111,7 +111,7 @@ https://duckduckgo.com/?q=DuckDuckGo&ia=chat
 I sort App by simplicity.
 You can choose which App is better for you.
 
-•
+°
 
 **LM Studio**
 
@@ -119,7 +119,7 @@ https://lmstudio.ai/
 
 Support: Windows l MacOS l Linux
 
-•
+°
 
 **Jan**
 
@@ -127,7 +127,7 @@ https://jan.ai/
 
 Support: Windows l MacOS l Linux
 
-•
+°
 
 **Msty**
 
@@ -135,7 +135,7 @@ https://msty.app/
 
 Support: Windows l MacOS l Linux
 
-•
+°
 
 **GPT4ALL**
 
@@ -153,7 +153,7 @@ Actually you have 3 options.
 I sort App by simplicity.
 You can choose which App is better for you.
 
-•
+°
 
 **SmolChat**
 
@@ -163,7 +163,7 @@ https://github.com/shubham0204/SmolChat-Android
 
 Support: Android
 
-•
+°
 
 **PocketPal**
 
@@ -173,7 +173,7 @@ https://github.com/a-ghorbani/pocketpal-ai
 
 Support: Android l iPhone
 
-•
+°
 
 **ChatterUI**
 
@@ -205,13 +205,13 @@ Support: Windows l MacOS l Linux
 
 https://openai.com/
 
-•
+°
 
 **ANTROPIC**
 
 https://www.anthropic.com/
 
-•
+°
 
 **GEMINI**
 
