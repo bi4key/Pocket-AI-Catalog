@@ -40,7 +40,7 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 **Links**
 - **Resources** l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#3---links
 
---------------------
+---
 
 # Online Chat
 
@@ -88,6 +88,8 @@ https://www.meta.ai/
 
 https://groq.com/
 
+---
+
 # Apps PC
 
 I sort App by simplicity.
@@ -125,6 +127,7 @@ https://www.nomic.ai/gpt4all
 
 Support: Windows l MacOS l Linux
 
+---
 
 # Apps Mobile 
 
@@ -170,6 +173,8 @@ https://ollama.com/
 
 Support: Windows l MacOS l Linux
 
+---
+
 # Apps API
 
 **OPENAI**
@@ -200,7 +205,7 @@ https://x.ai/
 
 https://groq.com/
 
---------------------
+---
 
 # Models
 
@@ -209,6 +214,8 @@ Most popular place to search models is:
 **Hugging Face**
 
 https://huggingface.co/
+
+---
 
 ## SLM (Small Language Models)
 
@@ -330,6 +337,8 @@ https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-c
 
 Qwen 2.5 Code 3B Instruct Q5 l https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GGUF/blob/main/qwen2.5-coder-3b-instruct-q5_0.gguf
 
+---
+
 ## LLM (Large Language Models)
 
 _Models for big consumer and enterprise device_
@@ -374,11 +383,11 @@ _Models for big consumer and enterprise device_
 - 1.5 B Coder
 - 3 B Coder
 
---------------------
+---
 
 # 3 - Links
 
---------------------
+---
 
 Some list of small LLM ( SLM ) :
 https://parakeet-nest.github.io/awesome-slms/
