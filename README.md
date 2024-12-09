@@ -102,9 +102,6 @@ https://groq.com/
 https://duckduckgo.com/?q=DuckDuckGo&ia=chat
 
 
-°
-
-
 ---
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
@@ -250,6 +247,8 @@ https://huggingface.co/
 
 _Models for mobile device_
 
+---
+
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
 ### # Chat
@@ -331,6 +330,8 @@ _GGUF_
 
 SummLlama 3.2 3B Instruct Q4 l https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF/blob/main/SummLlama3.2-3B-Q4_K_M.gguf
 
+---
+
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
 ### # Chat NSFW
@@ -350,6 +351,8 @@ Impish LLAMA 3B Q4 l https://huggingface.co/mradermacher/Impish_LLAMA_3B-GGUF/bl
 _GGUF_
 
 Gemmasutra Mini 2B v2 Q4 l https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutra-Mini-2B-v2aa-Q4_K_M.gguf
+
+---
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
@@ -378,6 +381,8 @@ Qwen 2.5 Code 3B Instruct Q5 l https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Inst
 
 _Models for big consumer and enterprise device_
 
+---
+
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
 ### # Chat
@@ -403,6 +408,8 @@ _Models for big consumer and enterprise device_
 **Phi 3.5**
 - 3.8B
 
+---
+
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
 ### # Chat NSFW
@@ -414,6 +421,8 @@ _Models for big consumer and enterprise device_
 
 **Gemmasutra Mini v2**
 - 2B
+
+---
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
