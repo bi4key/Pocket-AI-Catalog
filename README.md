@@ -16,6 +16,7 @@ Here I put some useful stuff.
 - Chat Code
 
 **Links**
+- Resources
 
 --------------------
 
@@ -105,21 +106,31 @@ Support: Windows l MacOS l Linux
 
 **OPENAI**
 
+https://openai.com/
+
 •
 
 **ANTROPIC**
+
+https://www.anthropic.com/
 
 •
 
 **GEMINI**
 
+https://gemini.google.com/
+
 °
 
 **GROK**
 
+https://x.ai/
+
 °
 
 **GROQ**
+
+https://groq.com/
 
 --------------------
 
@@ -150,12 +161,16 @@ https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-GGUF/blob/main/Llama-3.2-1B
 
 Llama 3.2 3B Instruct Q4 l https://huggingface.co/hugging-quants/Llama-3.2-3B-Instruct-Q4_K_M-GGUF/blob/main/llama-3.2-3b-instruct-q4_k_m.gguf
 
+° 
+
 **Gemma 2**
 - 2B l https://huggingface.co/bartowski/gemma-2-2b-it-GGUF 
 
 _GGUF_
 
 Gemma 2 2B Instruct Q4 l https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/blob/main/gemma-2-2b-it-Q4_K_M.gguf
+
+°
 
 **Qwen 2.5**
 - 0.5 B l https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF
@@ -171,12 +186,16 @@ Qwen 2.5 1.5B Instruct Q4 l https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GG
 
 Qwen 2.5 3B Instruct Q4 l https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GGUF/blob/main/qwen2.5-3b-instruct-q4_k_m.gguf
 
+°
+
 **Phi 3.5**
 - 3.8B l https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF
 
 _GGUF_
 
 Phi 3.5 mini Instruct Q4 l https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF/blob/main/Phi-3.5-mini-instruct.Q4_K_M.gguf
+
+°
 
 **SmolLM2**
 - 360M l https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF 
@@ -188,12 +207,16 @@ SmolLM2 360M Instruct Q8 l https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Ins
 
 SmolLM2 1.7B Instruct Q4 l https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/blob/main/SmolLM2-1.7B-Instruct-Q4_K_L.gguf 
 
+°
+
 **Danube 3**
 - 4B l https://huggingface.co/h2oai/h2o-danube3-4b-chat-GGUF
 
 _GGUF_
 
 Danube 3 Instruct Q4 l https://huggingface.co/h2oai/h2o-danube3-4b-chat-GGUF/blob/main/h2o-danube3-4b-chat-Q4_K_M.gguf
+
+°
 
 **SummLlama**
 - 3B l https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF
@@ -210,6 +233,8 @@ SummLlama 3.2 3B Instruct Q4 l https://huggingface.co/tensorblock/SummLlama3.2-3
 _GGUF_
 
 Impish LLAMA 3B Q4 l https://huggingface.co/mradermacher/Impish_LLAMA_3B-GGUF/blob/main/Impish_LLAMA_3B.Q4_K_M.gguf 
+
+°
 
 **Gemmasutra Mini v2**
 - 2B l https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF
@@ -247,13 +272,19 @@ _Models for big consumer and enterprise device_
 - 1B
 - 3B
 
+°
+
 **Gemma 2**
 - 2B
+
+°
 
 **Qwen 2.5**
 - 0.5 B
 - 1.5 B
 - 3 B
+
+°
 
 **Phi 3.5**
 - 3.8B
@@ -262,6 +293,8 @@ _Models for big consumer and enterprise device_
 
 **Impish LLAMA**
 - 3B
+
+°
 
 **Gemmasutra Mini v2**
 - 2B
@@ -282,8 +315,14 @@ _Models for big consumer and enterprise device_
 Some list of small LLM ( SLM ) :
 https://parakeet-nest.github.io/awesome-slms/
 
+°
+
 https://getstream.io/blog/best-local-llm-tools/
+
+°
 
 https://www.datacamp.com/tutorial/run-llms-locally-tutorial
 
+°
 
+_More links soon..._
