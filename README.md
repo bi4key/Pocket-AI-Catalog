@@ -37,6 +37,11 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 
 ---
 
+**Benchmark's:**
+- List l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#Benchmark's
+
+---
+
 **Links**
 - **Resources** l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#links
 
@@ -87,6 +92,16 @@ https://www.meta.ai/
 **GROQ**
 
 https://groq.com/
+
+°
+
+**DuckDuckGo**
+
+https://duckduckgo.com/?q=DuckDuckGo&ia=chat
+
+
+°
+
 
 ---
 
@@ -387,12 +402,69 @@ _Models for big consumer and enterprise device_
 
 ---
 
-# Links
+# Benchmark's
 
 Some list of small LLM ( SLM ) :
+
 https://parakeet-nest.github.io/awesome-slms/
 
 °
+
+LLM For Smartphone
+
+https://huggingface.co/collections/bunnycore/llm-for-smartphone-66acc633685fc4c1c2ebc806
+
+°
+
+https://nexa.ai/leaderboard
+
+°
+
+Long list:
+
+https://github.com/stevelaskaridis/awesome-mobile-llm
+
+
+°
+
+Portal for comparison:
+
+https://lmarena.ai/
+
+°
+
+https://lmarena.ai/?leaderboard
+
+°
+
+All in One
+
+https://artificialanalysis.ai/
+
+°
+
+Leaderboard
+
+https://llm-stats.com/
+
+°
+
+Table of comparison:
+
+https://tide-freckle-52b.notion.site/1e0168e3481747ebaa365f77a3af3cc1?v=83e3d58d1c3c45ad879834981b8c2530
+
+°
+ [https://aider.chat/2024/12/03/qwq.html](https://aider.chat/2024/12/03/qwq.html) (coding agent benchmark)
+
+°
+ [https://github.com/fairydreaming/farel-bench](https://github.com/fairydreaming/farel-bench) (benchmark designed for reasoning)
+
+°
+ [https://www.reddit.com/r/LocalLLaMA/comments/1h6u674/llm\_comparisontest\_25\_sota\_llms\_including\_qwq/](https://www.reddit.com/r/LocalLLaMA/comments/1h6u674/llm_comparisontest_25_sota_llms_including_qwq/) (MMLU-Pro CS benchmark though they don't have o1 for comparison here)
+ 
+---
+
+# Links
 
 https://getstream.io/blog/best-local-llm-tools/
 
