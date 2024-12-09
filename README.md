@@ -32,7 +32,7 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 
 **Models LLM (Large Language Models):**
 - **Chat** l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-1 
-- Chat NSFW l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-nsfw-1 
+- **Chat NSFW** l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-nsfw-1 
 - **Chat Code** l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-code-1
 
 ---
