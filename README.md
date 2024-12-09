@@ -2,9 +2,9 @@ Welcome to the Pocket-AI-Catalog.
 
 Here I put some useful stuff.
 
-1. Mobile Apps
-2. Models
-3. Links
+1. **Mobile Apps**
+2. **Models**
+3. **Links**
 
 --------------------
 
@@ -16,19 +16,19 @@ You can choose which App is better for you.
 
 ## Number 1 - SmolChat
 
-SmolChat - On-Device Inference of SLMs in Android
+**SmolChat - On-Device Inference of SLMs in Android**
 
 https://github.com/shubham0204/SmolChat-Android
 
 ## Number 2 - PocketPal
 
-PocketPal AI
+**PocketPal AI**
 
 https://github.com/a-ghorbani/pocketpal-ai
 
 ## Number 3 - ChatterUI
 
-ChatterUI - A simple app for LLMs
+**ChatterUI - A simple app for LLMs**
 
 https://github.com/Vali-98/ChatterUI
 
