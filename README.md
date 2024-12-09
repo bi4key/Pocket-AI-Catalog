@@ -5,18 +5,18 @@ _Page Updated: 2024.12.09 by bi4key_
 Here I put some useful stuff.
 
 **Apps:**
-- PC
-- Mobile
-- Console
-- API
+- PC l https://github.com/bi4key/Pocket-AI-Catalog#apps-pc
+- Mobile l https://github.com/bi4key/Pocket-AI-Catalog#apps-mobile
+- Console l https://github.com/bi4key/Pocket-AI-Catalog#apps-console
+- API l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#apps-api
 
 **Models:**
-- Chat
-- Chat NSFW
-- Chat Code
+- Chat l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat 
+- Chat NSFW l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-nsfw 
+- Chat Code l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#-chat-code
 
 **Links**
-- Resources
+- Resources l https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#3---links
 
 --------------------
 
