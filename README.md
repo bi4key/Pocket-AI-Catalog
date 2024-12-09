@@ -166,7 +166,7 @@ You can choose which App is better for you.
 
 | **SmolChat**                           |
 | :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
+| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
 | _SmolChat - On-Device Inference of SLMs in Android_ |
 | https://github.com/shubham0204/SmolChat-Android |
 | Support: Android                       |
@@ -175,7 +175,7 @@ You can choose which App is better for you.
 
 | **PocketPal**                          |
 | :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
+| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
 | _PocketPal AI_                         |
 | https://github.com/a-ghorbani/pocketpal-ai |
 | Support: Android iPhone                |
@@ -184,7 +184,7 @@ You can choose which App is better for you.
 
 | **ChatterUI**                          |
 | :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
+| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
 | _ChatterUI - A simple app for LLMs_   |
 | https://github.com/Vali-98/ChatterUI |
 | Support: Android                       |
