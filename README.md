@@ -48,8 +48,8 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 ---
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
- 
-# Online AI Chat
+
+# Online AI Chat 
 
 List of online Chat AI
 
@@ -107,6 +107,8 @@ https://duckduckgo.com/?q=DuckDuckGo&ia=chat
 
 ---
 
+[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
+
 # AI Apps PC
 
 I sort App by simplicity.
@@ -146,6 +148,8 @@ Support: Windows l MacOS l Linux
 
 ---
 
+[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
+
 # AI Apps Mobile 
 
 Actually you have 3 options.
@@ -184,6 +188,8 @@ Support: Android
 
 ---
 
+[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
+
 # AI Apps Console
 
 **Ollama**
@@ -193,6 +199,8 @@ https://ollama.com/
 Support: Windows l MacOS l Linux
 
 ---
+
+[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
 # AI Apps API
 
@@ -226,6 +234,8 @@ https://groq.com/
 
 ---
 
+[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
+
 # Models
 
 Most popular place to search models is:
@@ -239,6 +249,8 @@ https://huggingface.co/
 ## SLM (Small Language Models)
 
 _Models for mobile device_
+
+[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
 ### # Chat
 
@@ -319,6 +331,8 @@ _GGUF_
 
 SummLlama 3.2 3B Instruct Q4 l https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF/blob/main/SummLlama3.2-3B-Q4_K_M.gguf
 
+[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
+
 ### # Chat NSFW
 
 **Impish LLAMA**
@@ -336,6 +350,8 @@ Impish LLAMA 3B Q4 l https://huggingface.co/mradermacher/Impish_LLAMA_3B-GGUF/bl
 _GGUF_
 
 Gemmasutra Mini 2B v2 Q4 l https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutra-Mini-2B-v2aa-Q4_K_M.gguf
+
+[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
 ### # Chat Code
 
@@ -362,6 +378,8 @@ Qwen 2.5 Code 3B Instruct Q5 l https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Inst
 
 _Models for big consumer and enterprise device_
 
+[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
+
 ### # Chat
 
 **Llama 3.2**
@@ -385,6 +403,8 @@ _Models for big consumer and enterprise device_
 **Phi 3.5**
 - 3.8B
 
+[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
+
 ### # Chat NSFW
 
 **Impish LLAMA**
@@ -395,6 +415,8 @@ _Models for big consumer and enterprise device_
 **Gemmasutra Mini v2**
 - 2B
 
+[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
+
 ### # Chat Code
 
 **Qwen 2.5**
@@ -403,6 +425,8 @@ _Models for big consumer and enterprise device_
 - 3 B Coder
 
 ---
+
+[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
 # Benchmark's
 
@@ -465,6 +489,8 @@ https://tide-freckle-52b.notion.site/1e0168e3481747ebaa365f77a3af3cc1?v=83e3d58d
  [https://www.reddit.com/r/LocalLLaMA/comments/1h6u674/llm\_comparisontest\_25\_sota\_llms\_including\_qwq/](https://www.reddit.com/r/LocalLLaMA/comments/1h6u674/llm_comparisontest_25_sota_llms_including_qwq/) (MMLU-Pro CS benchmark though they don't have o1 for comparison here)
  
 ---
+
+[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
 # Links
 
