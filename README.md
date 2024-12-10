@@ -209,10 +209,10 @@ Most popular console App is:
 
 <br/>
 
-> **Hugging Face**  - Most popular place to search models
+> **Hugging Face**  - https://huggingface.co/
+<br/> <br/> Most popular place to search models
 
-https://huggingface.co/ 
-
+ 
 <br/>
 
 ---
