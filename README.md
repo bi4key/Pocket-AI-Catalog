@@ -216,7 +216,7 @@ Most popular console App is:
 ### # SLM - Chat
 
  SLM (Small Language Models) <br/>
-_Models for mobile device_
+_Models for mobile device - Chat_
 
 [Go to Top](#pocket-ai-catalog)
 
@@ -268,7 +268,8 @@ https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF/blob/main/SummLlama3.2-3
 ### # SLM - Chat NSFW
 
 SLM (Small Language Models) <br/>
-_Models for mobile device_
+_Models for mobile device -  Chat NSFW Role Play_
+
 
 [Go to Top](#pocket-ai-catalog)
 
@@ -291,7 +292,7 @@ https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutr
 ### # SLM - Chat Code
 
 SLM (Small Language Models) <br/>
-_Models for mobile device_
+_Models for mobile device - Chat Code_
 
 [Go to Top](#pocket-ai-catalog)
 
@@ -313,7 +314,7 @@ https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-c
 ### # LLM - Chat
 
 LLM (Large Language Models) <br/>
-_Models for pc consumer and enterprise device_
+_Models for pc consumer and enterprise device - Chat_
 
 [Go to Top](#pocket-ai-catalog)
 
@@ -349,7 +350,7 @@ _Models for pc consumer and enterprise device_
 ### # LLM - Chat NSFW
 
 LLM (Large Language Models) <br/>
-_Models for pc consumer and enterprise device_
+_Models for pc consumer and enterprise device - Chat NSFW Role Play_
 
 [Go to Top](#pocket-ai-catalog)
 
@@ -371,7 +372,7 @@ _Models for pc consumer and enterprise device_
 ### # LLM - Chat Code
 
 LLM (Large Language Models) <br/>
-_Models for pc consumer and enterprise device_
+_Models for pc consumer and enterprise device - Chat Code_
 
 [Go to Top](#pocket-ai-catalog)
 
