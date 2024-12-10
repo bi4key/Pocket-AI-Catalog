@@ -381,6 +381,18 @@ Xxxxxx
 
 ---
 
+> Qwen 2.5 (GGUF)
+
+Qwen 2.5 Code 0.5B Instruct Q8 l [Download](
+https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF/blob/main/qwen2.5-coder-0.5b-instruct-q8_0.gguf)
+<br/> Qwen 2.5 Code 1.5B Instruct Q5 l [Download](
+https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q5_k_m.gguf)
+<br/> Qwen 2.5 Code 1.5B Instruct Q8 l [Download](
+https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q8_0.gguf)
+<br/> Qwen 2.5 Code 3B Instruct Q5 l [Download](https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GGUF/blob/main/qwen2.5-coder-3b-instruct-q5_0.gguf)
+
+---
+
 ## LLM (Large Language Models)
 
 _Models for pc consumer and enterprise device_
