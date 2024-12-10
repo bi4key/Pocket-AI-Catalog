@@ -23,7 +23,7 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 - **PC** l [AI Apps -> PC](https://github.com/bi4key/Pocket-AI-Catalog#ai-apps---pc)
 - **Mobile** l [AI Apps -> Mobile](https://github.com/bi4key/Pocket-AI-Catalog#ai-apps---mobile)
 - **Console** l [AI Apps -> Console](https://github.com/bi4key/Pocket-AI-Catalog#ai-apps---console)
--- **Console 2** l [AI Apps -> Console](https://#ai-apps---console)
+-- **Console 2** l [AI Apps -> Console](#ai-apps---console)
 - **API** l [AI Apps -> API](https://github.com/bi4key/Pocket-AI-Catalog#ai-apps---api)
 
 ---
