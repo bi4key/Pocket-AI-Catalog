@@ -370,13 +370,9 @@ Xxxxxx
 
 ### # Chat Code
 
-<div style="width: 100%; padding: 0 0 0 10px; box-sizing: border-box; ">
-    <strong>Qwen 2.5 (GGUF)</strong>
-</div>
+> Qwen 2.5 (GGUF)
 
-<div style="width: 70%; padding: 0 0 0 10px; box-sizing: border-box; "> <hr> </div>
-
-<div style="width: 100%; padding: 0 0 10px 10px; box-sizing: border-box; ">
+<div style="width: 100%; padding: 0 0 10px 0; box-sizing: border-box; ">
     <div>Qwen 2.5 Code 0.5B Instruct Q8 l <a href="https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF/blob/main/qwen2.5-coder-0.5b-instruct-q8_0.gguf">Download</a></div>
     <div>Qwen 2.5 Code 1.5B Instruct Q5 l <a href="https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q5_k_m.gguf">Download</a></div>
     <div>Qwen 2.5 Code 1.5B Instruct Q8 l <a href="https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q8_0.gguf">Download</a></div>
