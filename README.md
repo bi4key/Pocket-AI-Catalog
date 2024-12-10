@@ -48,6 +48,11 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 
 ---
 
+**Forum:**
+- [**Questions**](https://github.com/bi4key/Pocket-AI-Catalog/issues)
+
+---
+
 **Benchmark's:**
 - [**List**](#benchmarks)
 
