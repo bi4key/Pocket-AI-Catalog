@@ -36,6 +36,7 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 - **Chat** l [Models SLM -> Chat](#-slm---chat) 
 - **Chat NSFW** l [Models SLM -> Chat NSFW](#-slm---chat-nsfw) 
 - **Chat Code** l [Models SLM -> Chat Code](#-slm---chat-code)
+- **Chat Vision** l [Models SLM -> Chat Vision](#-slm---chat-vision)
 
 ---
 
@@ -43,6 +44,7 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 - **Chat** l [Models LLM -> Chat](#-llm---chat) 
 - **Chat NSFW** l [Models LLM -> Chat NSFW](#-llm---chat-nsfw) 
 - **Chat Code** l [Models LLM -> Chat Code](#-llm---chat-code)
+- **Chat Vision** l [Models LLM -> Chat Vision](#-llm---chat-vision)
 
 ---
 
@@ -207,6 +209,9 @@ Most popular Api App.
 
 # Models
 
+Where search new models? <br/>
+This sites will be good start.
+
 [Go to Top](#menu)
 
 <br/>
@@ -214,6 +219,9 @@ Most popular Api App.
 > **Hugging Face**  - https://huggingface.co/
 <br/> <br/> Most popular place to search models.
 
+<br/>
+
+> **Ollama models** - https://ollama.com/search?o=newest
  
 <br/>
 
@@ -317,6 +325,23 @@ https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-c
 
 ---
 
+### # SLM - Chat Vision
+
+SLM (Small Language Models) <br/>
+_Models for mobile device - Chat Vision_
+
+[Go to Top](#menu)
+
+<br/>
+
+> **Qwen 2.5 (GGUF)** <br/> <br/>
+Qwen 2.5 Code 0.5B Instruct Q8 l [Download](
+https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF/blob/main/qwen2.5-coder-0.5b-instruct-q8_0.gguf)
+
+<br/>
+
+---
+
 ### # LLM - Chat
 
 LLM (Large Language Models) <br/>
@@ -391,6 +416,24 @@ _Models for pc consumer and enterprise - Chat Code_
 
 <br/>
 
+---
+
+### # LLM - Chat Vision
+
+LLM (Large Language Models) <br/>
+_Models for pc consumer and enterprise - Chat Vision_
+
+[Go to Top](#menu)
+
+<br/>
+
+**Qwen 2.5**
+- 0.5 B Coder
+- 1.5 B Coder
+- 3 B Coder
+
+<br/>
+
 # Benchmark's
 
 Models Test. <br/>
@@ -398,6 +441,8 @@ Models Test. <br/>
 [Go to Top](#menu)
 
 <br/>
+
+°
 
 Some list of small LLM ( SLM ) :
  <br/>
