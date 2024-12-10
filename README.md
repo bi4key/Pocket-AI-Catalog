@@ -4,7 +4,7 @@ _Page Updated: **2024.12.11** by **bi4key**_
 
 <br/>
 
-Here I put some useful stuff about AI and SLM/LLM.
+Some useful stuff about AI and SLM/LLM.
 
 If you think something is missing send me a message here:
 
