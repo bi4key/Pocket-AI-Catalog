@@ -326,11 +326,11 @@ Danube 3 4B Instruct Q4 l [Download](https://huggingface.co/h2oai/h2o-danube3-4b
 
 &nbsp;
 
-<div style="width: 100%; color: black; background-color: lightgreen; padding: 10px; box-sizing: border-box; border: 1px solid #000;">
+<div style="width: 100%; padding: 10px; box-sizing: border-box; ">
     <strong>SummLlama (GGUF)</strong>
 </div>
-<div style="width: 100%; padding: 10px; box-sizing: border-box; border: 1px solid #000;">
-    <div style="padding: 5px;">SummLlama 3.2 3B Instruct Q4 l <a href="https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF/blob/main/SummLlama3.2-3B-Q4_K_M.gguf">Download</a></div>
+<div style="width: 100%; padding: 10px; box-sizing: border-box; ">
+    <div>SummLlama 3.2 3B Instruct Q4 l <a href="https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF/blob/main/SummLlama3.2-3B-Q4_K_M.gguf">Download</a></div>
 </div>
 
 &nbsp;
@@ -341,26 +341,28 @@ Danube 3 4B Instruct Q4 l [Download](https://huggingface.co/h2oai/h2o-danube3-4b
 
 ### # Chat NSFW
 
-&nbsp;
+> **Impish LLAMA (GGUF)**
 
-<div style="width: 100%; color: black; background-color: lightgreen; padding: 10px; box-sizing: border-box; border: 1px solid #000;">
-    <strong>Impish LLAMA (GGUF)</strong>
-</div>
-<div style="width: 100%; padding: 10px; box-sizing: border-box; border: 1px solid #000;">
-    <div style="padding: 5px;">Gemmasutra Mini 2B v2 Q4 l <a href="https://huggingface.co/mradermacher/Impish_LLAMA_3B-GGUF/blob/main/Impish_LLAMA_3B.Q4_K_M.gguf">Download</a></div>
+<div style="width: 100%; padding: 10px; box-sizing: border-box; ">
+    <div style="padding: 5px; ">Impish LLAMA 3B Q4 l <a href="https://huggingface.co/mradermacher/Impish_LLAMA_3B-GGUF/blob/main/Impish_LLAMA_3B.Q4_K_M.gguf">Download</a></div>
 </div>
 
-&nbsp;
+> **Gemmasutra Mini v2 (GGUF)**
 
-<div style="width: 100%; color: black; background-color: lightgreen; padding: 10px; box-sizing: border-box; border: 1px solid #000;">
-    <strong>Gemmasutra Mini v2 (GGUF)</strong>
-</div>
-<div style="width: 100%; padding: 10px; box-sizing: border-box; border: 1px solid #000;">
-    <div style="padding: 5px;">Gemmasutra Mini 2B v2 Q4 l <a href="https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutra-Mini-2B-v2aa-Q4_K_M.gguf">Download</a>
+<div style="width: 100%; padding: 10px; box-sizing: border-box; ">
+    <div>Gemmasutra Mini 2B v2 Q4 l <a href="https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutra-Mini-2B-v2aa-Q4_K_M.gguf">Download</a>
     </div>
 </div>
 
-&nbsp;
+Xxxxxx
+
+<div style="width: 100%; padding: 10px; box-sizing: border-box; ">
+    <strong>Gemmasutra Mini v2 (GGUF)</strong>
+</div>
+<div style="width: 100%; padding: 10px; box-sizing: border-box; ">
+    <div>Gemmasutra Mini 2B v2 Q4 l <a href="https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutra-Mini-2B-v2aa-Q4_K_M.gguf">Download</a>
+    </div>
+</div>
 
 ---
 
@@ -368,19 +370,18 @@ Danube 3 4B Instruct Q4 l [Download](https://huggingface.co/h2oai/h2o-danube3-4b
 
 ### # Chat Code
 
-&nbsp;
-
-<div style="width: 100%; color: black; background-color: lightgreen; padding: 10px; box-sizing: border-box; border: 1px solid #000;">
+<div style="width: 100%; padding: 0 0 0 10px; box-sizing: border-box; ">
     <strong>Qwen 2.5 (GGUF)</strong>
 </div>
-<div style="width: 100%; padding: 10px; box-sizing: border-box; border: 1px solid #000;">
-    <div style="padding: 5px;">Qwen 2.5 Code 0.5B Instruct Q8 l <a href="https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF/blob/main/qwen2.5-coder-0.5b-instruct-q8_0.gguf">Download</a></div>
-    <div style="padding: 5px;">Qwen 2.5 Code 1.5B Instruct Q5 l <a href="https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q5_k_m.gguf">Download</a></div>
-    <div style="padding: 5px;">Qwen 2.5 Code 1.5B Instruct Q8 l <a href="https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q8_0.gguf">Download</a></div>
-    <div style="padding: 5px;">Qwen 2.5 Code 3B Instruct Q5 l <a href="https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GGUF/blob/main/qwen2.5-coder-3b-instruct-q5_0.gguf">Download</a></div>
-</div>
 
-&nbsp;
+<div style="width: 70%; padding: 0 0 0 10px; box-sizing: border-box; "> <hr> </div>
+
+<div style="width: 100%; padding: 0 0 10px 10px; box-sizing: border-box; ">
+    <div>Qwen 2.5 Code 0.5B Instruct Q8 l <a href="https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF/blob/main/qwen2.5-coder-0.5b-instruct-q8_0.gguf">Download</a></div>
+    <div>Qwen 2.5 Code 1.5B Instruct Q5 l <a href="https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q5_k_m.gguf">Download</a></div>
+    <div>Qwen 2.5 Code 1.5B Instruct Q8 l <a href="https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q8_0.gguf">Download</a></div>
+    <div>Qwen 2.5 Code 3B Instruct Q5 l <a href="https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GGUF/blob/main/qwen2.5-coder-3b-instruct-q5_0.gguf">Download</a></div>
+</div>
 
 ---
 
