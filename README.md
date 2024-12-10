@@ -15,46 +15,46 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 ## **Menu** 
 
 **Online AI Chat**
-- **List** l [Online AI Chat -> List](#online-ai-chat)
+- [**List**](#online-ai-chat)
 
 ---
 
 **AI Apps:**
-- **PC** l [AI Apps -> PC](#ai-apps---pc)
-- **Mobile** l [AI Apps -> Mobile](#ai-apps---mobile)
-- **Console** l [AI Apps -> Console](#ai-apps---console)
-- **API** l [AI Apps -> API](#ai-apps---api)
+- [**PC**](#ai-apps---pc)
+- [**Mobile**](#ai-apps---mobile)
+- [**Console**](#ai-apps---console)
+- [**API**](#ai-apps---api)
 
 ---
 
 **Models:**
-- **Site** | [Models -> Site](#models)
+- [**Sites**](#models)
 
 ---
 
 **Models SLM (Small Language Models):**
-- **Chat** l [Models SLM -> Chat](#-slm---chat) 
-- **Chat NSFW** l [Models SLM -> Chat NSFW](#-slm---chat-nsfw) 
-- **Chat Code** l [Models SLM -> Chat Code](#-slm---chat-code)
-- **Chat Vision** l [Models SLM -> Chat Vision](#-slm---chat-vision)
+- [**Chat**](#-slm---chat) 
+- [**Chat NSFW**](#-slm---chat-nsfw) 
+- [**Chat Code**](#-slm---chat-code)
+- [**Chat Vision**](#-slm---chat-vision)
 
 ---
 
 **Models LLM (Large Language Models):**
-- **Chat** l [Models LLM -> Chat](#-llm---chat) 
-- **Chat NSFW** l [Models LLM -> Chat NSFW](#-llm---chat-nsfw) 
-- **Chat Code** l [Models LLM -> Chat Code](#-llm---chat-code)
-- **Chat Vision** l [Models LLM -> Chat Vision](#-llm---chat-vision)
+- [**Chat**](#-llm---chat) 
+- [**Chat NSFW**](#-llm---chat-nsfw) 
+- [**Chat Code**](#-llm---chat-code)
+- [**Chat Vision**](#-llm---chat-vision)
 
 ---
 
 **Benchmark's:**
-- List l [Benchmark's -> List](#benchmarks)
+- [**List**](#benchmarks)
 
 ---
 
 **Links:**
-- **Resources** l [Links -> Resources](#links)
+- [**Resources**](#links)
 
 ---
 
