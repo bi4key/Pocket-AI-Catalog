@@ -272,68 +272,57 @@ _Models for mobile device_
 
 &nbsp;
 
-**Llama 3.2** |
+**Llama 3.2 (GGUF)** |
 :---: |
-1B l https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-GGUF |
-3B l https://huggingface.co/unsloth/Llama-3.2-3B-Instruct-GGUF |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-Llama 3.2 1B Instruct Q4 l [Download GGUF](https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-GGUF/blob/main/Llama-3.2-1B-Instruct-Q4_K_M.gguf) |
-Llama 3.2 1B Instruct Q8 l [Download GGUF](https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-GGUF/blob/main/Llama-3.2-1B-Instruct-Q8_0.gguf) |
-Llama 3.2 3B Instruct Q4 l [Download GGUF](https://huggingface.co/hugging-quants/Llama-3.2-3B-Instruct-Q4_K_M-GGUF/blob/main/llama-3.2-3b-instruct-q4_k_m.gguf) |
+Llama 3.2 1B Instruct Q4 l [Download](https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-GGUF/blob/main/Llama-3.2-1B-Instruct-Q4_K_M.gguf) |
+Llama 3.2 1B Instruct Q8 l [Download](https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-GGUF/blob/main/Llama-3.2-1B-Instruct-Q8_0.gguf) |
+Llama 3.2 3B Instruct Q4 l [Download](https://huggingface.co/hugging-quants/Llama-3.2-3B-Instruct-Q4_K_M-GGUF/blob/main/llama-3.2-3b-instruct-q4_k_m.gguf) |
 
 &nbsp;
 
-**Gemma 2** |
+**Gemma 2 (GGUF)** |
 :---: |
-2B l https://huggingface.co/bartowski/gemma-2-2b-it-GGUF |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-Gemma 2 2B Instruct Q4 l [Download GGUF](https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/blob/main/gemma-2-2b-it-Q4_K_M.gguf) |
+Gemma 2 2B Instruct Q4 l [Download](https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/blob/main/gemma-2-2b-it-Q4_K_M.gguf) |
 
 &nbsp;
 
-**Qwen 2.5** |
+**Qwen 2.5 (GGUF)** |
 :---: |
-0.5 B l https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF |
-1.5 B l https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF |
-3 B l https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GGUF |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-Qwen 2.5 0.5B Instruct Q8 l [Download GGUF](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF/blob/main/qwen2.5-0.5b-instruct-q8_0.gguf) |
-Qwen 2.5 1.5B Instruct Q4 l [Download GGUF](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/blob/main/qwen2.5-1.5b-instruct-q4_k_m.gguf) |
-Qwen 2.5 3B Instruct Q4 l [Download GGUF](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GGUF/blob/main/qwen2.5-3b-instruct-q4_k_m.gguf) |
+Qwen 2.5 0.5B Instruct Q8 l [Download](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF/blob/main/qwen2.5-0.5b-instruct-q8_0.gguf) |
+Qwen 2.5 1.5B Instruct Q4 l [Download](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/blob/main/qwen2.5-1.5b-instruct-q4_k_m.gguf) |
+Qwen 2.5 3B Instruct Q4 l [Download](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GGUF/blob/main/qwen2.5-3b-instruct-q4_k_m.gguf) |
 
 &nbsp;
 
-**Phi 3.5** |
+**Phi 3.5 (GGUF)** |
 :---: |
-3.8B l https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-Phi 3.5 mini Instruct Q4 l [Download GGUF](https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF/blob/main/Phi-3.5-mini-instruct.Q4_K_M.gguf) |
+Phi 3.5 mini Instruct Q4 l [Download](https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF/blob/main/Phi-3.5-mini-instruct.Q4_K_M.gguf) |
 
 &nbsp;
 
-**SmolLM2** |
+**SmolLM2 (GGUF)** |
 :---: |
-360M l https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF |
-1.7B l https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-SmolLM2 360M Instruct Q8 l [Download GGUF](https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF/blob/main/smollm2-360m-instruct-q8_0.gguf) |
-SmolLM2 1.7B Instruct Q4 l [Download GGUF](https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/blob/main/SmolLM2-1.7B-Instruct-Q4_K_L.gguf) |
+SmolLM2 360M Instruct Q8 l [Download](https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF/blob/main/smollm2-360m-instruct-q8_0.gguf) |
+SmolLM2 1.7B Instruct Q4 l [Download](https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/blob/main/SmolLM2-1.7B-Instruct-Q4_K_L.gguf) |
 
 &nbsp;
 
-**Danube 3** |
+**Danube 3 (GGUF)** |
 :---: |
-4B l https://huggingface.co/h2oai/h2o-danube3-4b-chat-GGUF |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-Danube 3 Instruct Q4 l [Download GGUF](https://huggingface.co/h2oai/h2o-danube3-4b-chat-GGUF/blob/main/h2o-danube3-4b-chat-Q4_K_M.gguf) |
+Danube 3 4B Instruct Q4 l [Download](https://huggingface.co/h2oai/h2o-danube3-4b-chat-GGUF/blob/main/h2o-danube3-4b-chat-Q4_K_M.gguf) |
 
 &nbsp;
 
-**SummLlama** |
+**SummLlama (GGUF)** |
 :---: |
-3B l https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-SummLlama 3.2 3B Instruct Q4 l [Download GGUF](https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF/blob/main/SummLlama3.2-3B-Q4_K_M.gguf) |
+SummLlama 3.2 3B Instruct Q4 l [Download](https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF/blob/main/SummLlama3.2-3B-Q4_K_M.gguf) |
 
 &nbsp;
 
@@ -345,19 +334,17 @@ SummLlama 3.2 3B Instruct Q4 l [Download GGUF](https://huggingface.co/tensorbloc
 
 &nbsp;
 
-**Impish LLAMA** |
+**Impish LLAMA (GGUF)** |
 :---: |
-3B l https://huggingface.co/mradermacher/Impish_LLAMA_3B-GGUF |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-Impish LLAMA 3B Q4 l [Download GGUF](https://huggingface.co/mradermacher/Impish_LLAMA_3B-GGUF/blob/main/Impish_LLAMA_3B.Q4_K_M.gguf) |
+Impish LLAMA 3B Q4 l [Download](https://huggingface.co/mradermacher/Impish_LLAMA_3B-GGUF/blob/main/Impish_LLAMA_3B.Q4_K_M.gguf) |
 
 &nbsp;
 
-**Gemmasutra Mini v2** |
+**Gemmasutra Mini v2 (GGUF)** |
 :---: |
-2B l https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-Gemmasutra Mini 2B v2 Q4 l [Download GGUF](https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutra-Mini-2B-v2aa-Q4_K_M.gguf) |
+Gemmasutra Mini 2B v2 Q4 l [Download](https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutra-Mini-2B-v2aa-Q4_K_M.gguf) |
 
 &nbsp;
 
@@ -369,16 +356,13 @@ Gemmasutra Mini 2B v2 Q4 l [Download GGUF](https://huggingface.co/BeaverAI/Gemma
 
 &nbsp;
 
-**Qwen 2.5** |
+**Qwen 2.5 (GGUF)** |
 :---: |
-0.5 B Coder l https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF |
-1.5 B Coder l https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF |
-3 B Coder l https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GGUF |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-Qwen 2.5 Code 0.5B Instruct Q8 l [Download GGUF](https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF/blob/main/qwen2.5-coder-0.5b-instruct-q8_0.gguf) |
-Qwen 2.5 Code 1.5B Instruct Q5 l [Download GGUF](https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q5_k_m.gguf) |
-Qwen 2.5 Code 1.5B Instruct Q8 l [Download GGUF](https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q8_0.gguf) |
-Qwen 2.5 Code 3B Instruct Q5 l [Download GGUF](https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GGUF/blob/main/qwen2.5-coder-3b-instruct-q5_0.gguf) |
+Qwen 2.5 Code 0.5B Instruct Q8 l [Download](https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF/blob/main/qwen2.5-coder-0.5b-instruct-q8_0.gguf) |
+Qwen 2.5 Code 1.5B Instruct Q5 l [Download](https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q5_k_m.gguf) |
+Qwen 2.5 Code 1.5B Instruct Q8 l [Download](https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q8_0.gguf) |
+Qwen 2.5 Code 3B Instruct Q5 l [Download](https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GGUF/blob/main/qwen2.5-coder-3b-instruct-q5_0.gguf) |
 
 &nbsp;
 
