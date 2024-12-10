@@ -76,7 +76,7 @@ List of online Chat AI
 
 > **PERPLEXITY** - https://www.perplexity.ai/ 
 
-&nbsp;
+<br/>
 
 > **BING** - https://www.bing.com/chat 
 
