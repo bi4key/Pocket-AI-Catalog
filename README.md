@@ -12,7 +12,7 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 
 <br/> <br/>
 
-### Menu <hr />
+## **Menu** 
 
 **Online AI Chat**
 - **List** l [Online AI Chat -> List](#online-ai-chat)
