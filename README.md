@@ -15,51 +15,50 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 ---
 
 **Online AI Chat**
-- **List** l [Online AI Chat -> List](https://github.com/bi4key/Pocket-AI-Catalog#online-ai-chat)
+- **List** l [Online AI Chat -> List](#online-ai-chat)
 
 ---
 
 **AI Apps:**
-- **PC** l [AI Apps -> PC](https://github.com/bi4key/Pocket-AI-Catalog#ai-apps---pc)
-- **Mobile** l [AI Apps -> Mobile](https://github.com/bi4key/Pocket-AI-Catalog#ai-apps---mobile)
-- **Console** l [AI Apps -> Console](https://github.com/bi4key/Pocket-AI-Catalog#ai-apps---console)
--- **Console 2** l [AI Apps -> Console](#ai-apps---console)
-- **API** l [AI Apps -> API](https://github.com/bi4key/Pocket-AI-Catalog#ai-apps---api)
+- **PC** l [AI Apps -> PC](#ai-apps---pc)
+- **Mobile** l [AI Apps -> Mobile](#ai-apps---mobile)
+- **Console** l [AI Apps -> Console](#ai-apps---console)
+- **API** l [AI Apps -> API](#ai-apps---api)
 
 ---
 
 **Models:**
-- **Site** | [Models -> Site](https://github.com/bi4key/Pocket-AI-Catalog#models)
+- **Site** | [Models -> Site](#models)
 
 ---
 
 **Models SLM (Small Language Models):**
-- **Chat** l [Models SLM -> Chat](https://github.com/bi4key/Pocket-AI-Catalog#-slm---chat) 
-- **Chat NSFW** l [Models SLM -> Chat NSFW](https://github.com/bi4key/Pocket-AI-Catalog#-slm---chat-nsfw) 
-- **Chat Code** l [Models SLM -> Chat Code](https://github.com/bi4key/Pocket-AI-Catalog#-slm---chat-code)
+- **Chat** l [Models SLM -> Chat](#-slm---chat) 
+- **Chat NSFW** l [Models SLM -> Chat NSFW](#-slm---chat-nsfw) 
+- **Chat Code** l [Models SLM -> Chat Code](#-slm---chat-code)
 
 ---
 
 **Models LLM (Large Language Models):**
-- **Chat** l [Models LLM -> Chat](https://github.com/bi4key/Pocket-AI-Catalog#-llm---chat) 
-- **Chat NSFW** l [Models LLM -> Chat NSFW](https://github.com/bi4key/Pocket-AI-Catalog#-llm---chat-nsfw) 
-- **Chat Code** l [Models LLM -> Chat Code](https://github.com/bi4key/Pocket-AI-Catalog#-llm---chat-code)
+- **Chat** l [Models LLM -> Chat](#-llm---chat) 
+- **Chat NSFW** l [Models LLM -> Chat NSFW](#-llm---chat-nsfw) 
+- **Chat Code** l [Models LLM -> Chat Code](#-llm---chat-code)
 
 ---
 
 **Benchmark's:**
-- List l [Benchmark's -> List](https://github.com/bi4key/Pocket-AI-Catalog#benchmarks)
+- List l [Benchmark's -> List](#benchmarks)
 
 ---
 
 **Links:**
-- **Resources** l [Links -> Resources](https://github.com/bi4key/Pocket-AI-Catalog#links)
+- **Resources** l [Links -> Resources](#links)
 
 <br/>
 
 ---
 
-[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog#pocket-ai-catalog)
+[Go to Top](#pocket-ai-catalog)
 
 # Online AI Chat 
 <br/>
@@ -102,7 +101,7 @@ List of online Chat AI
 
 ---
 
-[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog#pocket-ai-catalog)
+[Go to Top](#pocket-ai-catalog)
 
 # AI Apps - PC
 
@@ -135,7 +134,7 @@ You can choose which App is better for you.
 
 ---
 
-[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog#pocket-ai-catalog)
+[Go to Top](#pocket-ai-catalog)
 
 # AI Apps - Mobile 
 
@@ -166,7 +165,7 @@ You can choose which App is better for you.
 
 ---
 
-[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog#pocket-ai-catalog)
+[Go to Top](#pocket-ai-catalog)
 
 # AI Apps - Console
 
@@ -181,7 +180,7 @@ Most popular console App is:
 
 ---
 
-[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog#pocket-ai-catalog)
+[Go to Top](#pocket-ai-catalog)
 
 # AI Apps - API
 
@@ -209,7 +208,7 @@ Most popular console App is:
 
 ---
 
-[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog#pocket-ai-catalog)
+[Go to Top](#pocket-ai-catalog)
 
 # Models
 
@@ -229,7 +228,7 @@ _Models for mobile device_
 
 ---
 
-[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog#pocket-ai-catalog)
+[Go to Top](#pocket-ai-catalog)
 
 ### # SLM - Chat
 
@@ -278,7 +277,7 @@ https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF/blob/main/SummLlama3.2-3
 
 ---
 
-[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog#pocket-ai-catalog)
+[Go to Top](#pocket-ai-catalog)
 
 ### # SLM - Chat NSFW
 
@@ -298,7 +297,7 @@ https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutr
 
 ---
 
-[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog#pocket-ai-catalog)
+[Go to Top](#pocket-ai-catalog)
 
 ### # SLM - Chat Code
 
@@ -323,7 +322,7 @@ _Models for pc consumer and enterprise device_
 
 ---
 
-[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog#pocket-ai-catalog)
+[Go to Top](#pocket-ai-catalog)
 
 ### # LLM - Chat
 
@@ -356,7 +355,7 @@ _Models for pc consumer and enterprise device_
 
 ---
 
-[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog#pocket-ai-catalog)
+[Go to Top](#pocket-ai-catalog)
 
 ### # LLM - Chat NSFW
 
@@ -375,7 +374,7 @@ _Models for pc consumer and enterprise device_
 
 ---
 
-[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog#pocket-ai-catalog)
+[Go to Top](#pocket-ai-catalog)
 
 ### # LLM - Chat Code
 
@@ -390,7 +389,7 @@ _Models for pc consumer and enterprise device_
 
 ---
 
-[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog#pocket-ai-catalog)
+[Go to Top](#pocket-ai-catalog)
 
 # Benchmark's
 
@@ -458,7 +457,7 @@ https://tide-freckle-52b.notion.site/1e0168e3481747ebaa365f77a3af3cc1?v=83e3d58d
  
 ---
 
-[Go to Top](https://github.com/bi4key/Pocket-AI-Catalog#pocket-ai-catalog)
+[Go to Top](#pocket-ai-catalog)
 
 # Links
 
