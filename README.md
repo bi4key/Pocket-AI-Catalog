@@ -10,7 +10,7 @@ If you think something is missing send me a message here:
 
 https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 
-<br/>
+<br/> <br/>
 
 ---
 
@@ -54,13 +54,14 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 **Links:**
 - **Resources** l [Links -> Resources](#links)
 
-<br/>
-
 ---
+
+<br/> <br/>
+
+# Online AI Chat 
 
 [Go to Top](#pocket-ai-catalog)
 
-# Online AI Chat 
 <br/>
 
 List of online Chat AI
@@ -99,11 +100,9 @@ List of online Chat AI
 
 <br/>
 
----
+# AI Apps - PC
 
 [Go to Top](#pocket-ai-catalog)
-
-# AI Apps - PC
 
 <br/>
 
@@ -132,11 +131,9 @@ You can choose which App is better for you.
 
 <br/>
 
----
+# AI Apps - Mobile 
 
 [Go to Top](#pocket-ai-catalog)
-
-# AI Apps - Mobile 
 
 <br/>
 
@@ -163,11 +160,9 @@ You can choose which App is better for you.
 
 <br/>
 
----
+# AI Apps - Console
 
 [Go to Top](#pocket-ai-catalog)
-
-# AI Apps - Console
 
 <br/>
 
@@ -178,11 +173,9 @@ Most popular console App is:
 
 <br/>
 
----
+# AI Apps - API
 
 [Go to Top](#pocket-ai-catalog)
-
-# AI Apps - API
 
 <br/>
 
@@ -206,11 +199,9 @@ Most popular console App is:
 
 <br/>
 
----
+# Models
 
 [Go to Top](#pocket-ai-catalog)
-
-# Models
 
 <br/>
 
@@ -222,15 +213,12 @@ Most popular console App is:
 
 ---
 
-## SLM (Small Language Models)
+### # SLM - Chat
 
+ SLM (Small Language Models) <br/>
 _Models for mobile device_
 
----
-
 [Go to Top](#pocket-ai-catalog)
-
-### # SLM - Chat
 
 <br/>
 
@@ -277,9 +265,12 @@ https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF/blob/main/SummLlama3.2-3
 
 ---
 
-[Go to Top](#pocket-ai-catalog)
-
 ### # SLM - Chat NSFW
+
+SLM (Small Language Models) <br/>
+_Models for mobile device_
+
+[Go to Top](#pocket-ai-catalog)
 
 <br/>
 
@@ -297,9 +288,12 @@ https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutr
 
 ---
 
-[Go to Top](#pocket-ai-catalog)
-
 ### # SLM - Chat Code
+
+SLM (Small Language Models) <br/>
+_Models for mobile device_
+
+[Go to Top](#pocket-ai-catalog)
 
 <br/>
 
@@ -316,15 +310,12 @@ https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-c
 
 ---
 
-## LLM (Large Language Models)
+### # LLM - Chat
 
+LLM (Large Language Models) <br/>
 _Models for pc consumer and enterprise device_
 
----
-
 [Go to Top](#pocket-ai-catalog)
-
-### # LLM - Chat
 
 <br/>
 
@@ -355,9 +346,12 @@ _Models for pc consumer and enterprise device_
 
 ---
 
-[Go to Top](#pocket-ai-catalog)
-
 ### # LLM - Chat NSFW
+
+LLM (Large Language Models) <br/>
+_Models for pc consumer and enterprise device_
+
+[Go to Top](#pocket-ai-catalog)
 
 <br/>
 
@@ -374,9 +368,12 @@ _Models for pc consumer and enterprise device_
 
 ---
 
-[Go to Top](#pocket-ai-catalog)
-
 ### # LLM - Chat Code
+
+LLM (Large Language Models) <br/>
+_Models for pc consumer and enterprise device_
+
+[Go to Top](#pocket-ai-catalog)
 
 <br/>
 
@@ -387,22 +384,20 @@ _Models for pc consumer and enterprise device_
 
 <br/>
 
----
+# Benchmark's
 
 [Go to Top](#pocket-ai-catalog)
-
-# Benchmark's
 
 <br/>
 
 Some list of small LLM ( SLM ) :
-
+ <br/>
 https://parakeet-nest.github.io/awesome-slms/
 
 °
 
 LLM For Smartphone
-
+ <br/>
 https://huggingface.co/collections/bunnycore/llm-for-smartphone-66acc633685fc4c1c2ebc806
 
 °
@@ -412,14 +407,14 @@ https://nexa.ai/leaderboard
 °
 
 Long list:
-
+ <br/>
 https://github.com/stevelaskaridis/awesome-mobile-llm
 
 
 °
 
 Portal for comparison:
-
+ <br/>
 https://lmarena.ai/
 
 °
@@ -429,39 +424,46 @@ https://lmarena.ai/?leaderboard
 °
 
 All in One
-
+ <br/>
 https://artificialanalysis.ai/
 
 °
 
-Leaderboard
-
+Leaderboar
+ <br/>
 https://llm-stats.com/
 
 °
 
 Table of comparison:
-
+ <br/>
 https://tide-freckle-52b.notion.site/1e0168e3481747ebaa365f77a3af3cc1?v=83e3d58d1c3c45ad879834981b8c2530
 
 °
- [https://aider.chat/2024/12/03/qwq.html](https://aider.chat/2024/12/03/qwq.html) (coding agent benchmark)
+
+coding agent benchmark
+ <br/> [https://aider.chat/2024/12/03/qwq.html](https://aider.chat/2024/12/03/qwq.html)  
+ 
 
 °
- [https://github.com/fairydreaming/farel-bench](https://github.com/fairydreaming/farel-bench) (benchmark designed for reasoning)
 
+benchmark designed for reasoning
+ <br/> [https://github.com/fairydreaming/farel-bench](https://github.com/fairydreaming/farel-bench)  
+ 
 °
- [https://www.reddit.com/r/LocalLLaMA/comments/1h6u674/llm\_comparisontest\_25\_sota\_llms\_including\_qwq/](https://www.reddit.com/r/LocalLLaMA/comments/1h6u674/llm_comparisontest_25_sota_llms_including_qwq/) (MMLU-Pro CS benchmark though they don't have o1 for comparison here)
+
+MMLU-Pro CS benchmark though they don't have o1 for comparison here
+ <br/> [https://www.reddit.com/r/LocalLLaMA/comments/1h6u674/llm\_comparisontest\_25\_sota\_llms\_including\_qwq/](https://www.reddit.com/r/LocalLLaMA/comments/1h6u674/llm_comparisontest_25_sota_llms_including_qwq/)  
  
  <br/>
  
----
+# Links
 
 [Go to Top](#pocket-ai-catalog)
 
-# Links
-
 <br/>
+
+°
 
 https://getstream.io/blog/best-local-llm-tools/
 
