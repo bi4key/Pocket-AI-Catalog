@@ -166,7 +166,9 @@ You can choose which App is better for you.
 
 <br/>
 
-Most popular console App is:
+Most popular Console App.
+
+<br/>
 
 > **Ollama** - https://ollama.com/ 
 <br/><br/> Support: **Windows** l **MacOS** l **Linux** |
@@ -176,6 +178,10 @@ Most popular console App is:
 # AI Apps - API
 
 [Go to Top](#pocket-ai-catalog)
+
+<br/>
+
+Most popular Api App.
 
 <br/>
 
@@ -314,7 +320,7 @@ https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-c
 ### # LLM - Chat
 
 LLM (Large Language Models) <br/>
-_Models for pc consumer and enterprise device - Chat_
+_Models for pc consumer and enterprise - Chat_
 
 [Go to Top](#pocket-ai-catalog)
 
@@ -350,7 +356,7 @@ _Models for pc consumer and enterprise device - Chat_
 ### # LLM - Chat NSFW
 
 LLM (Large Language Models) <br/>
-_Models for pc consumer and enterprise device - Chat NSFW Role Play_
+_Models for pc consumer and enterprise - Chat NSFW Role Play_
 
 [Go to Top](#pocket-ai-catalog)
 
@@ -372,7 +378,7 @@ _Models for pc consumer and enterprise device - Chat NSFW Role Play_
 ### # LLM - Chat Code
 
 LLM (Large Language Models) <br/>
-_Models for pc consumer and enterprise device - Chat Code_
+_Models for pc consumer and enterprise - Chat Code_
 
 [Go to Top](#pocket-ai-catalog)
 
