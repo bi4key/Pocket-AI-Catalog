@@ -2,11 +2,15 @@ _Page Updated: **2024.12.10** by **bi4key**_
 
 # **Pocket-AI-Catalog**
 
+<br/>
+
 Here I put some useful stuff.
 
 If you think something is missing send me a message here:
 
 https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
+
+<br/>
 
 ---
 
@@ -42,213 +46,160 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 
 ---
 
-**Links**
+**Links:**
 - **Resources** l [Links -> Resources](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#links)
+
+<br/>
 
 ---
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
 # Online AI Chat 
+<br/>
 
 List of online Chat AI
 
-**OPENAI** | 
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://openai.com/  | 
+<br/>
+
+> **OPENAI** - https://openai.com/  
+
+<br/>
+
+> **GEMINI** - https://gemini.google.com/ 
+
+<br/>
+
+> **GROK** - https://x.ai/ 
+
+<br/>
+
+> **PERPLEXITY** - https://www.perplexity.ai/ 
 
 &nbsp;
 
-**GEMINI** | 
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://gemini.google.com/ | 
+> **BING** - https://www.bing.com/chat 
 
-&nbsp;
+<br/>
 
-**GROK** | 
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://x.ai/ |
+> **META** - https://www.meta.ai/ 
 
-&nbsp;
+<br/>
 
-**PERPLEXITY** |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://www.perplexity.ai/ |
+> **GROQ** - https://groq.com/ 
 
-&nbsp;
+<br/>
 
-**BING** |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://www.bing.com/chat |
+> **DuckDuckGo** - https://duck.com/?q=DuckDuckGo&ia=chat 
 
-&nbsp;
-
-**META** |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://www.meta.ai/ |
-
-&nbsp;
-
-**GROQ** |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://groq.com/ |
-
-&nbsp;
-
-**DuckDuckGo** |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://duckduckgo.com/?q=DuckDuckGo&ia=chat |
-
-&nbsp;
+<br/>
 
 ---
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
-# AI Apps PC
+# AI Apps - PC
 
-I sort App by simplicity.
+<br/>
+
+I sort App by simplicity. <br/>
 You can choose which App is better for you.
 
-&nbsp;
+<br/>
 
-**LM Studio** |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://lmstudio.ai/ |
-Support: **Windows** l **MacOS** l **Linux** |
+> **LM Studio** - https://lmstudio.ai/
+<br/> <br/> Support: **Windows** l **MacOS** l **Linux** 
 
-&nbsp;
+<br/>
 
-**Jan** |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://jan.ai/ |
-Support: **Windows** l **MacOS** l **Linux** |
+> **Jan** - https://jan.ai/
+<br/> <br/> Support: **Windows** l **MacOS** l **Linux** 
 
-&nbsp;
+<br/>
 
-**Msty** |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://msty.app/ |
-Support: **Windows** l **MacOS** l **Linux** |
+> **Msty** - https://msty.app/
+<br/> <br/> Support: **Windows** l **MacOS** l **Linux** 
 
-&nbsp;
+<br/>
 
-**GPT4ALL** |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://www.nomic.ai/gpt4all |
-Support: **Windows** l **MacOS** l **Linux** |
+> **GPT4ALL** - https://www.nomic.ai/gpt4all 
+<br/> <br/> Support: **Windows** l **MacOS** l **Linux** 
 
-&nbsp;
+<br/>
 
 ---
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
-# AI Apps Mobile 
+# AI Apps - Mobile 
 
-Actually you have 3 options.
-I sort App by simplicity.
+<br/>
+
+I sort App by simplicity. <br/> 
 You can choose which App is better for you.
 
-&nbsp;
+<br/>
 
-| **SmolChat**                           |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-| _SmolChat - On-Device Inference of SLMs in Android_ |
-| https://github.com/shubham0204/SmolChat-Android |
-| Support: **Android**                       |
+> **SmolChat** - [Download](https://github.com/shubham0204/SmolChat-Android)
+<br/> _On-Device Inference of SLMs in Android_ 
+<br/> <br/> Support: **Android**                       
 
-&nbsp;
+<br/>
 
-| **PocketPal**                          |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-| _PocketPal AI_                         |
-| https://github.com/a-ghorbani/pocketpal-ai |
-| Support: **Android** l **iPhone**                |
+> **PocketPal** - [Download](https://github.com/a-ghorbani/pocketpal-ai)
+<br/> _PocketPal AI_             
+<br/> Support: **Android** l **iPhone**                
 
-&nbsp;
+<br/>
 
-| **ChatterUI**                          |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-| _ChatterUI - A simple app for LLMs_   |
-| https://github.com/Vali-98/ChatterUI |
-| Support: **Android**                       |
+> **ChatterUI** - [Download](https://github.com/Vali-98/ChatterUI)
+<br/> _A simple app for LLMs_   
+<br/> Support: **Android**                       
 
-&nbsp;
+<br/>
 
 ---
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
-# AI Apps Console
+# AI Apps - Console
+
+<br/>
 
 Most popular console App is:
 
-**Ollama** |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://ollama.com/ |
-Support: **Windows** l **MacOS** l **Linux** |
+> **Ollama** - https://ollama.com/ 
+<br/><br/> Support: **Windows** l **MacOS** l **Linux** |
 
-&nbsp;
+<br/>
 
 ---
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
-# AI Apps API
+# AI Apps - API
 
-&nbsp;
+<br/>
 
-**OPENAI** |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://openai.com/ |
+> **OPENAI** - https://openai.com/ 
 
-&nbsp; 
+<br/>
 
-**ANTROPIC** |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://www.anthropic.com/ |
+> **ANTROPIC** - https://www.anthropic.com/ 
 
-&nbsp; 
+<br/>
 
-**GEMINI** |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://gemini.google.com/ |
+> **GEMINI** - https://gemini.google.com/ 
 
-&nbsp; 
+<br/>
 
-**GROK** |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://x.ai/ |
+> **GROK** - https://x.ai/ 
 
-&nbsp; 
+<br/>
 
-**GROQ** |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://groq.com/ |
+> **GROQ** - https://groq.com/ 
 
-&nbsp;
+<br/>
 
 ---
 
@@ -256,15 +207,14 @@ https://groq.com/ |
 
 # Models
 
-Most popular place to search models is:
+<br/>
 
-**Hugging Face** |
-| :---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-https://huggingface.co/ |
+> **Hugging Face**  - Most popular place to search models
 
+https://huggingface.co/ 
 
-&nbsp;
+<br/>
+
 ---
 
 ## SLM (Small Language Models)
@@ -275,111 +225,87 @@ _Models for mobile device_
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
-### # Chat
+### # SLM - Chat
 
-&nbsp;
+<br/>
 
-**Llama 3.2 (GGUF)** |
-:---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-Llama 3.2 1B Instruct Q4 l [Download](https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-GGUF/blob/main/Llama-3.2-1B-Instruct-Q4_K_M.gguf) |
-Llama 3.2 1B Instruct Q8 l [Download](https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-GGUF/blob/main/Llama-3.2-1B-Instruct-Q8_0.gguf) |
-Llama 3.2 3B Instruct Q4 l [Download](https://huggingface.co/hugging-quants/Llama-3.2-3B-Instruct-Q4_K_M-GGUF/blob/main/llama-3.2-3b-instruct-q4_k_m.gguf) |
+> **Llama 3.2 (GGUF)** 
 
-&nbsp;
+Llama 3.2 1B Instruct Q4 l [Download](https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-GGUF/blob/main/Llama-3.2-1B-Instruct-Q4_K_M.gguf) 
+<br/> Llama 3.2 1B Instruct Q8 l [Download](https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-GGUF/blob/main/Llama-3.2-1B-Instruct-Q8_0.gguf) 
+<br/> Llama 3.2 3B Instruct Q4 l [Download](https://huggingface.co/hugging-quants/Llama-3.2-3B-Instruct-Q4_K_M-GGUF/blob/main/llama-3.2-3b-instruct-q4_k_m.gguf) 
 
-**Gemma 2 (GGUF)** |
-:---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-Gemma 2 2B Instruct Q4 l [Download](https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/blob/main/gemma-2-2b-it-Q4_K_M.gguf) |
+<br/>
 
-&nbsp;
+> **Gemma 2 (GGUF)** 
 
-**Qwen 2.5 (GGUF)** |
-:---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-Qwen 2.5 0.5B Instruct Q8 l [Download](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF/blob/main/qwen2.5-0.5b-instruct-q8_0.gguf) |
-Qwen 2.5 1.5B Instruct Q4 l [Download](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/blob/main/qwen2.5-1.5b-instruct-q4_k_m.gguf) |
-Qwen 2.5 3B Instruct Q4 l [Download](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GGUF/blob/main/qwen2.5-3b-instruct-q4_k_m.gguf) |
+Gemma 2 2B Instruct Q4 l [Download](https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/blob/main/gemma-2-2b-it-Q4_K_M.gguf) 
 
-&nbsp;
+<br/>
 
-**Phi 3.5 (GGUF)** |
-:---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-Phi 3.5 mini Instruct Q4 l [Download](https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF/blob/main/Phi-3.5-mini-instruct.Q4_K_M.gguf) |
+> **Qwen 2.5 (GGUF)** 
 
-&nbsp;
+Qwen 2.5 0.5B Instruct Q8 l [Download](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF/blob/main/qwen2.5-0.5b-instruct-q8_0.gguf) 
+<br/> Qwen 2.5 1.5B Instruct Q4 l [Download](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/blob/main/qwen2.5-1.5b-instruct-q4_k_m.gguf) 
+<br/> Qwen 2.5 3B Instruct Q4 l [Download](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GGUF/blob/main/qwen2.5-3b-instruct-q4_k_m.gguf) 
 
-**SmolLM2 (GGUF)** |
-:---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-SmolLM2 360M Instruct Q8 l [Download](https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF/blob/main/smollm2-360m-instruct-q8_0.gguf) |
-SmolLM2 1.7B Instruct Q4 l [Download](https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/blob/main/SmolLM2-1.7B-Instruct-Q4_K_L.gguf) |
+<br/>
 
-&nbsp;
+> **Phi 3.5 (GGUF)** 
 
-**Danube 3 (GGUF)** |
-:---: |
-| : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
-Danube 3 4B Instruct Q4 l [Download](https://huggingface.co/h2oai/h2o-danube3-4b-chat-GGUF/blob/main/h2o-danube3-4b-chat-Q4_K_M.gguf) |
+Phi 3.5 mini Instruct Q4 l [Download](https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF/blob/main/Phi-3.5-mini-instruct.Q4_K_M.gguf) 
 
-&nbsp;
+<br/>
 
-<div style="width: 100%; padding: 10px; box-sizing: border-box; ">
-    <strong>SummLlama (GGUF)</strong>
-</div>
-<div style="width: 100%; padding: 10px; box-sizing: border-box; ">
-    <div>SummLlama 3.2 3B Instruct Q4 l <a href="https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF/blob/main/SummLlama3.2-3B-Q4_K_M.gguf">Download</a></div>
-</div>
+> **SmolLM2 (GGUF)** 
 
-&nbsp;
+SmolLM2 360M Instruct Q8 l [Download](https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF/blob/main/smollm2-360m-instruct-q8_0.gguf) 
+<br/> SmolLM2 1.7B Instruct Q4 l [Download](https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/blob/main/SmolLM2-1.7B-Instruct-Q4_K_L.gguf) 
+
+<br/>
+
+> **Danube 3 (GGUF)** 
+
+Danube 3 4B Instruct Q4 l [Download](https://huggingface.co/h2oai/h2o-danube3-4b-chat-GGUF/blob/main/h2o-danube3-4b-chat-Q4_K_M.gguf) 
+
+<br/>
+
+> **SummLlama (GGUF)** 
+
+SummLlama 3.2 3B Instruct Q4 l [Download](
+https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF/blob/main/SummLlama3.2-3B-Q4_K_M.gguf)
+
+<br/>
 
 ---
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
-### # Chat NSFW
+### # SLM - Chat NSFW
+
+<br/>
 
 > **Impish LLAMA (GGUF)**
 
-<div style="width: 100%; padding: 10px; box-sizing: border-box; ">
-    <div style="padding: 5px; ">Impish LLAMA 3B Q4 l <a href="https://huggingface.co/mradermacher/Impish_LLAMA_3B-GGUF/blob/main/Impish_LLAMA_3B.Q4_K_M.gguf">Download</a></div>
-</div>
+Impish LLAMA 3B Q4 l [Download](
+https://huggingface.co/mradermacher/Impish_LLAMA_3B-GGUF/blob/main/Impish_LLAMA_3B.Q4_K_M.gguf)
+
+<br/>
 
 > **Gemmasutra Mini v2 (GGUF)**
 
-<div style="width: 100%; padding: 10px; box-sizing: border-box; ">
-    <div>Gemmasutra Mini 2B v2 Q4 l <a href="https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutra-Mini-2B-v2aa-Q4_K_M.gguf">Download</a>
-    </div>
-</div>
+Gemmasutra Mini 2B v2 Q4 l [Download](
+https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutra-Mini-2B-v2aa-Q4_K_M.gguf)
 
-Xxxxxx
-
-<div style="width: 100%; padding: 10px; box-sizing: border-box; ">
-    <strong>Gemmasutra Mini v2 (GGUF)</strong>
-</div>
-<div style="width: 100%; padding: 10px; box-sizing: border-box; ">
-    <div>Gemmasutra Mini 2B v2 Q4 l <a href="https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutra-Mini-2B-v2aa-Q4_K_M.gguf">Download</a>
-    </div>
-</div>
+<br/>
 
 ---
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
-### # Chat Code
+### # SLM - Chat Code
 
-> Qwen 2.5 (GGUF)
-
-<div style="width: 100%; padding: 0 0 10px 0; box-sizing: border-box; ">
-    <div>Qwen 2.5 Code 0.5B Instruct Q8 l <a href="https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF/blob/main/qwen2.5-coder-0.5b-instruct-q8_0.gguf">Download</a></div>
-    <div>Qwen 2.5 Code 1.5B Instruct Q5 l <a href="https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q5_k_m.gguf">Download</a></div>
-    <div>Qwen 2.5 Code 1.5B Instruct Q8 l <a href="https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q8_0.gguf">Download</a></div>
-    <div>Qwen 2.5 Code 3B Instruct Q5 l <a href="https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GGUF/blob/main/qwen2.5-coder-3b-instruct-q5_0.gguf">Download</a></div>
-</div>
-
----
+<br/>
 
 > Qwen 2.5 (GGUF)
 
@@ -391,6 +317,8 @@ https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-c
 https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q8_0.gguf)
 <br/> Qwen 2.5 Code 3B Instruct Q5 l [Download](https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GGUF/blob/main/qwen2.5-coder-3b-instruct-q5_0.gguf)
 
+<br/>
+
 ---
 
 ## LLM (Large Language Models)
@@ -401,23 +329,21 @@ _Models for pc consumer and enterprise device_
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
-### # Chat
+### # LLM - Chat
 
-&nbsp;
+<br/>
 
 **Llama 3.2**
 - 1B
 - 3B
  
-
-
-&nbsp;
+<br/>
 
 **Gemma 2**
 - 2B
 
  
-&nbsp;
+<br/>
 
 **Qwen 2.5**
 - 0.5 B
@@ -425,54 +351,54 @@ _Models for pc consumer and enterprise device_
 - 3 B
 
 
-
-&nbsp;
+<br/>
 
 **Phi 3.5**
 - 3.8B
 
-&nbsp;
+<br/>
 
 ---
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
-### # Chat NSFW
+### # LLM - Chat NSFW
 
-&nbsp;
+<br/>
 
 **Impish LLAMA**
 - 3B
 
 
-
-&nbsp;
+<br/>
 
 **Gemmasutra Mini v2**
 - 2B
 
-&nbsp;
+<br/>
 
 ---
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
-### # Chat Code
+### # LLM - Chat Code
 
-&nbsp;
+<br/>
 
 **Qwen 2.5**
 - 0.5 B Coder
 - 1.5 B Coder
 - 3 B Coder
 
-&nbsp;
+<br/>
 
 ---
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
 # Benchmark's
+
+<br/>
 
 Some list of small LLM ( SLM ) :
 
@@ -532,11 +458,15 @@ https://tide-freckle-52b.notion.site/1e0168e3481747ebaa365f77a3af3cc1?v=83e3d58d
 °
  [https://www.reddit.com/r/LocalLLaMA/comments/1h6u674/llm\_comparisontest\_25\_sota\_llms\_including\_qwq/](https://www.reddit.com/r/LocalLLaMA/comments/1h6u674/llm_comparisontest_25_sota_llms_including_qwq/) (MMLU-Pro CS benchmark though they don't have o1 for comparison here)
  
+ <br/>
+ 
 ---
 
 [Go to Top](https://github.com/bi4key/Pocket-AI-Catalog?tab=readme-ov-file#pocket-ai-catalog)
 
 # Links
+
+<br/>
 
 https://getstream.io/blog/best-local-llm-tools/
 
