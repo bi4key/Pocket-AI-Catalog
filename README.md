@@ -124,7 +124,7 @@ You can choose which App is better for you.
 | :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
 https://lmstudio.ai/ |
-Support: Windows l MacOS l Linux |
+Support: **Windows** l **MacOS** l **Linux** |
 
 &nbsp;
 
@@ -132,7 +132,7 @@ Support: Windows l MacOS l Linux |
 | :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
 https://jan.ai/ |
-Support: Windows l MacOS l Linux |
+Support: **Windows** l **MacOS** l **Linux** |
 
 &nbsp;
 
@@ -140,7 +140,7 @@ Support: Windows l MacOS l Linux |
 | :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
 https://msty.app/ |
-Support: Windows l MacOS l Linux |
+Support: **Windows** l **MacOS** l **Linux** |
 
 &nbsp;
 
@@ -148,7 +148,7 @@ Support: Windows l MacOS l Linux |
 | :---: |
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
 https://www.nomic.ai/gpt4all |
-Support: Windows l MacOS l Linux |
+Support: **Windows** l **MacOS** l **Linux** |
 
 &nbsp;
 
@@ -169,7 +169,7 @@ You can choose which App is better for you.
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
 | _SmolChat - On-Device Inference of SLMs in Android_ |
 | https://github.com/shubham0204/SmolChat-Android |
-| Support: Android                       |
+| Support: **Android**                       |
 
 &nbsp;
 
@@ -178,7 +178,7 @@ You can choose which App is better for you.
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
 | _PocketPal AI_                         |
 | https://github.com/a-ghorbani/pocketpal-ai |
-| Support: Android iPhone                |
+| Support: **Android** l **iPhone**                |
 
 &nbsp;
 
@@ -187,7 +187,7 @@ You can choose which App is better for you.
 | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
 | _ChatterUI - A simple app for LLMs_   |
 | https://github.com/Vali-98/ChatterUI |
-| Support: Android                       |
+| Support: **Android**                       |
 
 &nbsp;
 
@@ -197,11 +197,15 @@ You can choose which App is better for you.
 
 # AI Apps Console
 
-**Ollama**
+Most popular console App is:
 
-https://ollama.com/
+**Ollama** |
+| :---: |
+| : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
+https://ollama.com/ |
+Support: **Windows** l **MacOS** l **Linux** |
 
-Support: Windows l MacOS l Linux
+&nbsp;
 
 ---
 
@@ -254,10 +258,13 @@ https://groq.com/ |
 
 Most popular place to search models is:
 
-**Hugging Face**
+**Hugging Face** |
+| :---: |
+| : : : : : : : : : : : : : : : : : : : : : : : : : : : : |
+https://huggingface.co/ |
 
-https://huggingface.co/
 
+&nbsp;
 ---
 
 ## SLM (Small Language Models)
