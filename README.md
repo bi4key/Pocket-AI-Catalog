@@ -64,7 +64,7 @@ https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
 
 <br/>
 
-List of online Chat AI
+List of online Chat AI.
 
 <br/>
 
@@ -212,7 +212,7 @@ Most popular Api App.
 <br/>
 
 > **Hugging Face**  - https://huggingface.co/
-<br/> <br/> Most popular place to search models
+<br/> <br/> Most popular place to search models.
 
  
 <br/>
