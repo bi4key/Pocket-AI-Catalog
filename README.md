@@ -8,7 +8,9 @@ Here I put some useful stuff.
 
 If you think something is missing send me a message here:
 
-https://www.reddit.com/u/bi4key/s/lE2LMDtMy2
+[**Ask on Reddit**](https://www.reddit.com/u/bi4key/s/lE2LMDtMy2)
+
+[**Ask on Forum**](https://github.com/bi4key/Pocket-AI-Catalog/issues)
 
 <br/> <br/>
 
