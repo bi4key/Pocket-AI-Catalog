@@ -45,7 +45,7 @@ You search app to **run this model**? Jump here:
 ---
 
 **Models:**
-- [**Sites**](#models)
+- [**Sites with links**](#models)
 
 ---
 
@@ -245,7 +245,7 @@ This sites will be good start.
 
 **Leaderboards:**
 
-> **LMarena Leaderboard l All** - https://lmarena.ai/?leaderboard
+> **LMarena Leaderboard l All** - [Check Results](https://lmarena.ai/?leaderboard)
 
 > **HugginFace Leaderboard l All** - [Check Results](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/)
 
@@ -257,7 +257,7 @@ This sites will be good start.
 
 > **HugginFace Models l All (GGUF)** - [Most Download](https://huggingface.co/models?library=gguf&sort=downloads)
 
-> **Ollama models | All (GGUF)** - [Most Popular](https://ollama.com/search)
+> **Ollama models | All (GGUF)** - [Most Download](https://ollama.com/search)
 
 > **Ollama models l Newest (GGUF)** - [Most Newest](https://ollama.com/search?o=newest)
 
@@ -283,7 +283,7 @@ This sites will be good start.
 
 > **HugginFace l Vision (GGUF)** - [Most Download](https://huggingface.co/models?library=gguf&sort=downloads&search=Vision)
 
-> **Ollama | Vision (GGUF)** - [Most Popular](https://ollama.com/search?c=vision)
+> **Ollama | Vision (GGUF)** - [Most Download](https://ollama.com/search?c=vision)
 
 <br/>
 
