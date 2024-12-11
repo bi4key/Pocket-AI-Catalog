@@ -14,6 +14,20 @@ If you think something is missing send me a message here:
 
 <br/> <br/>
 
+## **Quick Tips**
+
+You search place to **find models**? Jump here: 
+- [**Sites with links**](#models)
+
+You search place to find **tested models**? Jump here: 
+- [**SLM Chat**](#-slm---chat) 
+- [**LLM Chat**](#-llm---chat) 
+
+You search app to **run this model**? Jump here: 
+- [**App PC**](#ai-apps---pc)
+
+<br/> <br/>
+
 ## **Menu** 
 
 **Online AI Chat**
@@ -228,15 +242,39 @@ This sites will be good start.
 
 <br/>
 
-> **Ollama models** - https://ollama.com/search?o=newest
- 
-<br/>
-
 > **Leaderboard - All** - https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
 
+> **Leaderboard - Phone**  - https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?params=0%2C3
+
 <br/>
 
-> **Leaderboard - Phone**  - https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?params=0%2C3
+> **HugginFace Models l All (GGUF)** - [Most Download](https://huggingface.co/models?library=gguf&sort=downloads)
+
+> **Ollama models - Popular** - https://ollama.com/search
+
+> **Ollama models - Newest** - https://ollama.com/search?o=newest
+
+<br/>
+
+> **HugginFace l Chat (GGUF)** - [Most Download](https://huggingface.co/models?library=gguf&sort=downloads&search=Chat)
+
+<br/>
+
+> **HugginFace l Instruct (GGUF)** - [Most Download](https://huggingface.co/models?library=gguf&sort=downloads&search=Instruct)
+
+<br/>
+
+> **HugginFace l NSFW (GGUF)** - [Most Download](https://huggingface.co/models?library=gguf&sort=downloads&search=NSFW)
+
+<br/>
+
+> **HugginFace l Code (GGUF)** - [Most Download](https://huggingface.co/models?library=gguf&sort=downloads&search=Code)
+
+<br/>
+
+> **HugginFace l Vision (GGUF)** - [Most Download](https://huggingface.co/models?library=gguf&sort=downloads&search=Vision)
+
+> **Ollama | Vision (GGUF)** - https://ollama.com/search?c=vision
 
 <br/>
 
