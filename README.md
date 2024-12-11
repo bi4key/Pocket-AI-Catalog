@@ -165,15 +165,15 @@ You can choose which App is better for you.
 
 <br/>
 
-> **SmolChat** - [Download](https://github.com/shubham0204/SmolChat-Android)
-<br/> _On-Device Inference of SLMs in Android_ 
-<br/> <br/> Support: **Android**                       
-
-<br/>
-
 > **PocketPal** - [Download](https://github.com/a-ghorbani/pocketpal-ai)
 <br/> _PocketPal AI_             
 <br/> Support: **Android** l **iPhone**                
+
+<br/>
+
+> **SmolChat** - [Download](https://github.com/shubham0204/SmolChat-Android)
+<br/> _On-Device Inference of SLMs in Android_ 
+<br/> <br/> Support: **Android**                       
 
 <br/>
 
@@ -242,17 +242,19 @@ This sites will be good start.
 
 <br/>
 
-> **Leaderboard - All** - https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
+> **LMarena Leaderboard l All** - https://lmarena.ai/?leaderboard
 
-> **Leaderboard - Phone**  - https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?params=0%2C3
+> **HugginFace Leaderboard l All** - [Check Results](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/)
+
+> **HugginFace Leaderboard l Phone**  - [Check Results](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?params=0%2C3)
 
 <br/>
 
 > **HugginFace Models l All (GGUF)** - [Most Download](https://huggingface.co/models?library=gguf&sort=downloads)
 
-> **Ollama models - Popular** - https://ollama.com/search
+> **Ollama models | All (GGUF)** - [Most Popular](https://ollama.com/search)
 
-> **Ollama models - Newest** - https://ollama.com/search?o=newest
+> **Ollama models l Newest (GGUF)** - [Most Newest](https://ollama.com/search?o=newest)
 
 <br/>
 
@@ -274,7 +276,7 @@ This sites will be good start.
 
 > **HugginFace l Vision (GGUF)** - [Most Download](https://huggingface.co/models?library=gguf&sort=downloads&search=Vision)
 
-> **Ollama | Vision (GGUF)** - https://ollama.com/search?c=vision
+> **Ollama | Vision (GGUF)** - [Most Popular](https://ollama.com/search?c=vision)
 
 <br/>
 
