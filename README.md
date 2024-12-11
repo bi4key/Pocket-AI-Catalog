@@ -232,6 +232,14 @@ This sites will be good start.
  
 <br/>
 
+> **Leaderboard - All** - https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
+
+<br/>
+
+> **Leaderboard - Phone**  - https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?params=0%2C3
+
+<br/>
+
 ---
 
 ### # SLM - Chat
@@ -533,6 +541,32 @@ https://getstream.io/blog/best-local-llm-tools/
 °
 
 https://www.datacamp.com/tutorial/run-llms-locally-tutorial
+
+°
+
+Leaderboard - Default l 
+https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
+
+°
+
+Leaderboard - Rich GPU l 
+https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?params=65%2C141
+
+°
+
+Leaderboard - Mid Range l 
+https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?params=7%2C65
+
+
+°
+
+Leaderboard - Customers l 
+https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?params=3%2C7
+
+°
+
+Leaderboard - Edge Devices l 
+https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?params=0%2C3
 
 °
 
