@@ -25,6 +25,7 @@ You search place to find **tested models**? Jump here:
 
 You search app to **run this model**? Jump here: 
 - [**App PC**](#ai-apps---pc)
+- [**App Mobile**](#ai-apps---mobile)
 
 <br/> <br/>
 
