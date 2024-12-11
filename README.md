@@ -243,6 +243,8 @@ This sites will be good start.
 
 <br/>
 
+**Leaderboards:**
+
 > **LMarena Leaderboard l All** - https://lmarena.ai/?leaderboard
 
 > **HugginFace Leaderboard l All** - [Check Results](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/)
@@ -251,6 +253,8 @@ This sites will be good start.
 
 <br/>
 
+**Models:**
+
 > **HugginFace Models l All (GGUF)** - [Most Download](https://huggingface.co/models?library=gguf&sort=downloads)
 
 > **Ollama models | All (GGUF)** - [Most Popular](https://ollama.com/search)
@@ -258,6 +262,8 @@ This sites will be good start.
 > **Ollama models l Newest (GGUF)** - [Most Newest](https://ollama.com/search?o=newest)
 
 <br/>
+
+**Models by category:**
 
 > **HugginFace l Chat (GGUF)** - [Most Download](https://huggingface.co/models?library=gguf&sort=downloads&search=Chat)
 
