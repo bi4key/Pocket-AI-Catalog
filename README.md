@@ -257,7 +257,7 @@ This sites will be good start.
 
 > **HugginFace Models l All (GGUF)** - [Most Download](https://huggingface.co/models?library=gguf&sort=downloads)
 
-> **Ollama models | All (GGUF)** - [Most Download](https://ollama.com/search)
+> **Ollama models l All (GGUF)** - [Most Download](https://ollama.com/search)
 
 > **Ollama models l Newest (GGUF)** - [Most Newest](https://ollama.com/search?o=newest)
 
@@ -283,7 +283,7 @@ This sites will be good start.
 
 > **HugginFace l Vision (GGUF)** - [Most Download](https://huggingface.co/models?library=gguf&sort=downloads&search=Vision)
 
-> **Ollama | Vision (GGUF)** - [Most Download](https://ollama.com/search?c=vision)
+> **Ollama l Vision (GGUF)** - [Most Download](https://ollama.com/search?c=vision)
 
 <br/>
 
