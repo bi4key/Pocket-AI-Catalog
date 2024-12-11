@@ -10,7 +10,7 @@ If you think something is missing send me a message here:
 
 [**Ask on Reddit**](https://www.reddit.com/u/bi4key/s/lE2LMDtMy2)
 
-[**Ask on Forum**](https://github.com/bi4key/Pocket-AI-Catalog/issues)
+[**Ask on Forum (GitHub)**](https://github.com/bi4key/Pocket-AI-Catalog/issues)
 
 <br/> <br/>
 
