@@ -1,4 +1,4 @@
-_Page Updated: **2024.12.11** by **bi4key**_
+_Page Updated: **2024.12.13** by **bi4key**_
 
 **Page work in process, so there are may some missing.**
 
@@ -15,6 +15,12 @@ If you think something is missing send me a message here:
 [**Ask on Reddit**](https://www.reddit.com/u/bi4key/s/lE2LMDtMy2)
 
 [**Ask on Forum (GitHub)**](https://github.com/bi4key/Pocket-AI-Catalog/issues)
+
+<br/>
+
+**Support My Work:** <br/>
+
+[**Give Support**](#support-my-work)
 
 <br/> <br/>
 
@@ -70,6 +76,11 @@ You search app to **run this model**? Jump here:
 
 **Forum:**
 - [**Questions**](https://github.com/bi4key/Pocket-AI-Catalog/issues)
+
+---
+
+**Support My Work**
+- [**Support**](#support-my-work)
 
 ---
 
@@ -542,6 +553,43 @@ _Models for pc consumer and enterprise - Chat Vision_
 - 0.5 B Coder
 - 1.5 B Coder
 - 3 B Coder
+
+<br/>
+
+## Support My Work
+
+[Go to Top](#menu)
+
+<br/>
+
+If you'd like to support my business, you can send cryptocurrency directly to my wallets listed below:
+
+### Bitcoin (BTC)
+- Address: `your_btc_address_here`
+
+### Ethereum (ETH)
+- Address: `your_eth_address_here`
+
+### XRP
+- Address: `your_xrp_address_here`
+
+### Litecoin (LTC)
+- Address: `your_ltc_address_here`
+
+### Bitcoin Cash (BCH)
+- Address: `your_bch_address_here`
+
+### Monero (XMR)
+- Address: `your_xmr_address_here`
+
+### Dogecoin (DOGE)
+- Address: `your_doge_address_here`
+
+### Tether (USDT)
+- Address: `your_usdt_address_here`
+
+### USD Coin (USDC)
+- Address: `your_usdc_address_here`
 
 <br/>
 
