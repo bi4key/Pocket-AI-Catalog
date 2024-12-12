@@ -123,6 +123,10 @@ List of online Chat AI.
 
 <br/>
 
+> **YOU** - https://you.com/
+
+<br/>
+
 > **DuckDuckGo** - https://duck.com/?q=DuckDuckGo&ia=chat 
 
 <br/>
@@ -138,22 +142,30 @@ You can choose which App is better for you.
 
 <br/>
 
-> **LM Studio** - https://lmstudio.ai/
+> **LM Studio**
+<br/> <br/> Info Page: [Info](https://lmstudio.ai/)
+<br/> Download Page: [Download](https://lmstudio.ai/)
 <br/> <br/> Support: **Windows** l **MacOS** l **Linux** 
 
 <br/>
 
-> **Jan** - https://jan.ai/
+> **Jan**
+<br/> <br/> Info Page: [Info](https://jan.ai/)
+<br/> Download Page: [Download](https://jan.ai/download)
 <br/> <br/> Support: **Windows** l **MacOS** l **Linux** 
 
 <br/>
 
-> **Msty** - https://msty.app/
+> **Msty**
+<br/> <br/> Info Page: [Info](https://msty.app/)
+<br/> Download Page: [Download](https://msty.app/)
 <br/> <br/> Support: **Windows** l **MacOS** l **Linux** 
 
 <br/>
 
-> **GPT4ALL** - https://www.nomic.ai/gpt4all 
+> **GPT4ALL**
+<br/> <br/> Info Page: [Info](https://www.nomic.ai/gpt4all)
+<br/> Download Page: [Download](https://www.nomic.ai/gpt4all)
 <br/> <br/> Support: **Windows** l **MacOS** l **Linux** 
 
 <br/>
@@ -162,8 +174,10 @@ Most popular Console App.
 
 <br/>
 
-> **Ollama** - https://ollama.com/ 
-<br/><br/> Support: **Windows** l **MacOS** l **Linux** 
+> **Ollama**
+<br/> <br/> Info Page: [Info](https://ollama.com/)
+<br/> Download Page: [Download](https://ollama.com/download)
+<br/> <br/> Support: **Windows** l **MacOS** l **Linux** 
 
 <br/>
 
@@ -182,7 +196,7 @@ You can choose which App is better for you.
 <br/> _PocketPal AI_
 <br/> <br/> Info Page: [Info](https://github.com/a-ghorbani/pocketpal-ai)
 <br/> Download Page: [Download](https://github.com/a-ghorbani/pocketpal-ai/releases)
-<br/> Support: **Android** l **iPhone**                
+<br/> <br/> Support: **Android** l **iPhone**                
 
 <br/>
 
@@ -190,7 +204,7 @@ You can choose which App is better for you.
 <br/> _On-Device Inference of SLMs in Android_
 <br/> <br/> Info Page: [Info](https://github.com/shubham0204/SmolChat-Android)
 <br/> Download Page: [Download](https://github.com/shubham0204/SmolChat-Android/releases)
-<br/> Support: **Android**                       
+<br/> <br/> Support: **Android**                       
 
 <br/>
 
@@ -198,7 +212,7 @@ You can choose which App is better for you.
 <br/> _A simple app for LLMs_
 <br/> <br/> Info Page: [Info](https://github.com/Vali-98/ChatterUI)
 <br/> Download Page: [Download](https://github.com/Vali-98/ChatterUI/releases)
-<br/> Support: **Android**                       
+<br/> <br/> Support: **Android**                       
 
 <br/>
 
