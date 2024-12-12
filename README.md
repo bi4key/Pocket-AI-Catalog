@@ -355,14 +355,15 @@ Qwen 2.5 0.5B Instruct Q8 l [Download](https://huggingface.co/Qwen/Qwen2.5-0.5B-
 
 > **Phi 3.5 (GGUF)** <br/>
 **Info About**: 
- [Info about model](https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF) <br/> <br/>
+ [Model 3.8B](https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF) <br/> <br/>
 Phi 3.5 mini Instruct Q4 l [Download](https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF/blob/main/Phi-3.5-mini-instruct.Q4_K_M.gguf) 
 
 <br/>
 
 > **SmolLM2 (GGUF)** <br/>
 **Info About**: 
-[Info about model](https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF) <br/> <br/>
+[Model 360M](https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF) l [Model 1.7B](https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF)
+<br/> <br/>
 SmolLM2 360M Instruct Q8 l [Download](https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF/blob/main/smollm2-360m-instruct-q8_0.gguf) 
 <br/> SmolLM2 1.7B Instruct Q4 l [Download](https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/blob/main/SmolLM2-1.7B-Instruct-Q4_K_L.gguf) 
 
@@ -370,14 +371,14 @@ SmolLM2 360M Instruct Q8 l [Download](https://huggingface.co/HuggingFaceTB/SmolL
 
 > **Danube 3 (GGUF)** <br/>
 **Info About**: 
- [Info about model](https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF) <br/> <br/>
+ [Model 4B](https://huggingface.co/h2oai/h2o-danube3-4b-chat-GGUF) <br/> <br/>
 Danube 3 4B Instruct Q4 l [Download](https://huggingface.co/h2oai/h2o-danube3-4b-chat-GGUF/blob/main/h2o-danube3-4b-chat-Q4_K_M.gguf) 
 
 <br/>
 
 > **SummLlama (GGUF)** <br/>
 **Info About**: 
-[Info about model](https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF) <br/> <br/>
+[Model 3B](https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF) <br/> <br/>
 SummLlama 3.2 3B Instruct Q4 l [Download](
 https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF/blob/main/SummLlama3.2-3B-Q4_K_M.gguf)
 
@@ -405,7 +406,7 @@ _Models for mobile device -  Chat NSFW Role Play_
 
 > **Impish LLAMA (GGUF)** <br/>
 **Info About**: 
- [Info about model](https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF) <br/> <br/>
+ [Model 3B](https://huggingface.co/mradermacher/Impish_LLAMA_3B-GGUF) <br/> <br/>
 Impish LLAMA 3B Q4 l [Download](
 https://huggingface.co/mradermacher/Impish_LLAMA_3B-GGUF/blob/main/Impish_LLAMA_3B.Q4_K_M.gguf)
 
@@ -413,7 +414,7 @@ https://huggingface.co/mradermacher/Impish_LLAMA_3B-GGUF/blob/main/Impish_LLAMA_
 
 > **Gemmasutra Mini v2 (GGUF)** <br/>
 **Info About**: 
-[Info about model](https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF) <br/> <br/>
+[Model 2B](https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF) <br/> <br/>
 Gemmasutra Mini 2B v2 Q4 l [Download](
 https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutra-Mini-2B-v2aa-Q4_K_M.gguf)
 
@@ -432,7 +433,7 @@ _Models for mobile device - Chat Code_
 
 > **Qwen 2.5 (GGUF)** <br/>
 **Info About**: 
- [Info about model](https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF) <br/> <br/>
+ [Model 0.5B](https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF) l  [Model 1.5B](https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF) l  [Model 3B](https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GGUF)  <br/> <br/>
 Qwen 2.5 Code 0.5B Instruct Q8 l [Download](
 https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF/blob/main/qwen2.5-coder-0.5b-instruct-q8_0.gguf)
 <br/> Qwen 2.5 Code 1.5B Instruct Q5 l [Download](
@@ -456,7 +457,7 @@ _Models for mobile device - Chat Vision_
 
 > **Qwen 2.5 (GGUF)** <br/>
 **Info About**: 
-[Info about model](https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF) <br/> <br/>
+[Model 3B](https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF) <br/> <br/>
 Qwen 2.5 Code 0.5B Instruct Q8 l [Download](
 https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF/blob/main/qwen2.5-coder-0.5b-instruct-q8_0.gguf)
 
