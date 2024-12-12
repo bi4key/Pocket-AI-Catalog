@@ -474,28 +474,69 @@ _Models for pc consumer and enterprise - Chat_
 
 <br/>
 
-**Llama 3.2**
-- 1B
-- 3B
- 
-<br/>
-
-**Gemma 2**
-- 2B
-
- 
-<br/>
-
-**Qwen 2.5**
-- 0.5 B
-- 1.5 B
-- 3 B
-
+> **Llama 3.2 (GGUF)**  <br/>
+**Info About**: [Model 1B](https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-GGUF) l 
+[Model 3B](https://huggingface.co/hugging-quants/Llama-3.2-3B-Instruct-Q4_K_M-GGUF)
+<br/> <br/>
+Llama 3.2 1B Instruct Q4 l [Download](https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-GGUF/blob/main/Llama-3.2-1B-Instruct-Q4_K_M.gguf) 
+<br/> Llama 3.2 1B Instruct Q8 l [Download](https://huggingface.co/unsloth/Llama-3.2-1B-Instruct-GGUF/blob/main/Llama-3.2-1B-Instruct-Q8_0.gguf) 
+<br/> Llama 3.2 3B Instruct Q4 l [Download](https://huggingface.co/hugging-quants/Llama-3.2-3B-Instruct-Q4_K_M-GGUF/blob/main/llama-3.2-3b-instruct-q4_k_m.gguf) 
 
 <br/>
 
-**Phi 3.5**
-- 3.8B
+> **Gemma 2 (GGUF)**  <br/>
+**Info About**: [Model 2B](https://huggingface.co/bartowski/gemma-2-2b-it-GGUF) 
+<br/> <br/>
+Gemma 2 2B Instruct Q4 l [Download](https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/blob/main/gemma-2-2b-it-Q4_K_M.gguf) 
+
+<br/>
+
+> **Qwen 2.5 (GGUF)**  <br/>
+**Info About**: 
+[Model 0.5B](https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF) l [Model 1.5B](https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF) l [Model 3B](https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF) 
+<br/> <br/>
+Qwen 2.5 0.5B Instruct Q8 l [Download](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF/blob/main/qwen2.5-0.5b-instruct-q8_0.gguf) 
+<br/> Qwen 2.5 1.5B Instruct Q4 l [Download](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/blob/main/qwen2.5-1.5b-instruct-q4_k_m.gguf) 
+<br/> Qwen 2.5 3B Instruct Q4 l [Download](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GGUF/blob/main/qwen2.5-3b-instruct-q4_k_m.gguf) 
+
+<br/>
+
+> **Phi 3.5 (GGUF)** <br/>
+**Info About**: 
+ [Model 3.8B](https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF) <br/> <br/>
+Phi 3.5 mini Instruct Q4 l [Download](https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF/blob/main/Phi-3.5-mini-instruct.Q4_K_M.gguf) 
+
+<br/>
+
+> **SmolLM2 (GGUF)** <br/>
+**Info About**: 
+[Model 360M](https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF) l [Model 1.7B](https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF)
+<br/> <br/>
+SmolLM2 360M Instruct Q8 l [Download](https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF/blob/main/smollm2-360m-instruct-q8_0.gguf) 
+<br/> SmolLM2 1.7B Instruct Q4 l [Download](https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/blob/main/SmolLM2-1.7B-Instruct-Q4_K_L.gguf) 
+
+<br/>
+
+> **Danube 3 (GGUF)** <br/>
+**Info About**: 
+ [Model 4B](https://huggingface.co/h2oai/h2o-danube3-4b-chat-GGUF) <br/> <br/>
+Danube 3 4B Instruct Q4 l [Download](https://huggingface.co/h2oai/h2o-danube3-4b-chat-GGUF/blob/main/h2o-danube3-4b-chat-Q4_K_M.gguf) 
+
+<br/>
+
+> **SummLlama (GGUF)** <br/>
+**Info About**: 
+[Model 3B](https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF) <br/> <br/>
+SummLlama 3.2 3B Instruct Q4 l [Download](
+https://huggingface.co/tensorblock/SummLlama3.2-3B-GGUF/blob/main/SummLlama3.2-3B-Q4_K_M.gguf)
+
+<br/>
+
+> **EXAONE (GGUF)** <br/>
+**Info About**: 
+[Info about model](https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF) <br/> <br/>
+EXAONE 3.5 2.4B Instruct Q4 l [Download](
+https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF/blob/main/EXAONE-3.5-2.4B-Instruct-Q4_K_M.gguf)
 
 <br/>
 
@@ -510,14 +551,19 @@ _Models for pc consumer and enterprise - Chat NSFW Role Play_
 
 <br/>
 
-**Impish LLAMA**
-- 3B
-
+> **Impish LLAMA (GGUF)** <br/>
+**Info About**: 
+ [Model 3B](https://huggingface.co/mradermacher/Impish_LLAMA_3B-GGUF) <br/> <br/>
+Impish LLAMA 3B Q4 l [Download](
+https://huggingface.co/mradermacher/Impish_LLAMA_3B-GGUF/blob/main/Impish_LLAMA_3B.Q4_K_M.gguf)
 
 <br/>
 
-**Gemmasutra Mini v2**
-- 2B
+> **Gemmasutra Mini v2 (GGUF)** <br/>
+**Info About**: 
+[Model 2B](https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF) <br/> <br/>
+Gemmasutra Mini 2B v2 Q4 l [Download](
+https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutra-Mini-2B-v2aa-Q4_K_M.gguf)
 
 <br/>
 
@@ -532,10 +578,16 @@ _Models for pc consumer and enterprise - Chat Code_
 
 <br/>
 
-**Qwen 2.5**
-- 0.5 B Coder
-- 1.5 B Coder
-- 3 B Coder
+> **Qwen 2.5 (GGUF)** <br/>
+**Info About**: 
+ [Model 0.5B](https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF) l  [Model 1.5B](https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF) l  [Model 3B](https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GGUF)  <br/> <br/>
+Qwen 2.5 Code 0.5B Instruct Q8 l [Download](
+https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF/blob/main/qwen2.5-coder-0.5b-instruct-q8_0.gguf)
+<br/> Qwen 2.5 Code 1.5B Instruct Q5 l [Download](
+https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q5_k_m.gguf)
+<br/> Qwen 2.5 Code 1.5B Instruct Q8 l [Download](
+https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q8_0.gguf)
+<br/> Qwen 2.5 Code 3B Instruct Q5 l [Download](https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GGUF/blob/main/qwen2.5-coder-3b-instruct-q5_0.gguf)
 
 <br/>
 
@@ -550,10 +602,11 @@ _Models for pc consumer and enterprise - Chat Vision_
 
 <br/>
 
-**Qwen 2.5**
-- 0.5 B Coder
-- 1.5 B Coder
-- 3 B Coder
+> **Qwen 2.5 (GGUF)** <br/>
+**Info About**: 
+[Model 3B](https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF) <br/> <br/>
+Qwen 2.5 Code 0.5B Instruct Q8 l [Download](
+https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF/blob/main/qwen2.5-coder-0.5b-instruct-q8_0.gguf)
 
 <br/>
 
