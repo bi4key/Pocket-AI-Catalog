@@ -1,4 +1,4 @@
-_Page Updated: **2024.12.13** by **bi4key**_
+_Page Updated: **2024.12.17** by **bi4key**_
 
 **Page work in process, so there are may some missing.**
 
@@ -26,8 +26,11 @@ If you think something is missing send me a message here:
 
 ## **Quick Tips**
 
+You search place to **AI News**? Jump here: 
+- [**Sites with AI News**](#ai-news)
+
 You search place to **find models**? Jump here: 
-- [**Sites with links**](#models)
+- [**Sites with Model Lists**](#models)
 
 You search place to find **tested models**? Jump here: 
 - [**SLM Chat**](#-slm---chat) 
@@ -41,8 +44,13 @@ You search app to **run this model**? Jump here:
 
 ## **Menu** 
 
-**Online AI Chat**
-- [**List**](#online-ai-chat)
+**AI News:**
+- [**Sites with AI News**](#ai-news)
+
+---
+
+**AI Chat - Online**
+- [**Sites with AI Chat**](#ai-chat-online)
 
 ---
 
@@ -54,7 +62,7 @@ You search app to **run this model**? Jump here:
 ---
 
 **Models:**
-- [**Sites with links**](#models)
+- [**Sites with Model Lists**](#models)
 
 ---
 
@@ -96,13 +104,33 @@ You search app to **run this model**? Jump here:
 
 <br/> <br/>
 
-# Online AI Chat 
+# AI News
+
+AI News Sites
 
 [Go to Top](#menu)
 
 <br/>
 
-List of online Chat AI.
+**Medium:**
+
+> The Neuron l https://www.theneurondaily.com/
+
+<br/>
+
+**Short:**
+
+> Bush AI Cave l https://bushaicave.com/
+
+<br/>
+
+# AI Chat - Online
+
+[Go to Top](#menu)
+
+<br/>
+
+List of Chat AI.
 
 <br/>
 
@@ -279,6 +307,8 @@ This sites will be good start.
 
 > **HugginFace Leaderboard l Phone**  - [Check Results](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?params=0%2C3)
 
+> **LLM STATS Leaderboard** - [Check Results](https://llm-stats.com/)
+
 <br/>
 
 **Models:**
@@ -316,6 +346,8 @@ This sites will be good start.
 <br/>
 
 ---
+
+<br/>
 
 ### # SLM - Chat
 
@@ -360,6 +392,14 @@ Phi 3.5 mini Instruct Q4 l [Download](https://huggingface.co/QuantFactory/Phi-3.
 
 <br/>
 
+> **Hermes-3 Llama 3.2 (GGUF)** <br/>
+**Info About**: 
+ [Model 3B](https://huggingface.co/NousResearch/Hermes-3-Llama-3.2-3B-GGUF) <br/> <br/>
+Hermes-3 Llama 3.2 3B Q4 l [Download](https://huggingface.co/NousResearch/Hermes-3-Llama-3.2-3B-GGUF/blob/main/Hermes-3-Llama-3.2-3B.Q4_K_M.gguf) 
+<br/> Hermes-3 Llama 3.2 3B Q6 l [Download](https://huggingface.co/NousResearch/Hermes-3-Llama-3.2-3B-GGUF/blob/main/Hermes-3-Llama-3.2-3B.Q6_K.gguf) 
+
+<br/>
+
 > **SmolLM2 (GGUF)** <br/>
 **Info About**: 
 [Model 360M](https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF) l [Model 1.7B](https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF)
@@ -394,6 +434,8 @@ https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF/blob/main/EXAON
 
 ---
 
+<br/>
+
 ### # SLM - Chat NSFW
 
 SLM (Small Language Models) <br/>
@@ -422,6 +464,8 @@ https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutr
 
 ---
 
+<br/>
+
 ### # SLM - Chat Code
 
 SLM (Small Language Models) <br/>
@@ -446,6 +490,8 @@ https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-c
 
 ---
 
+<br/>
+
 ### # SLM - Chat Vision
 
 SLM (Small Language Models) <br/>
@@ -464,6 +510,8 @@ https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF/blob/main/qwen2.5-c
 <br/>
 
 ---
+
+<br/>
 
 ### # LLM - Chat
 
@@ -508,6 +556,14 @@ Phi 3.5 mini Instruct Q4 l [Download](https://huggingface.co/QuantFactory/Phi-3.
 
 <br/>
 
+> **Hermes-3 Llama 3.2 (GGUF)** <br/>
+**Info About**: 
+ [Model 3B](https://huggingface.co/NousResearch/Hermes-3-Llama-3.2-3B-GGUF) <br/> <br/>
+Hermes-3 Llama 3.2 3B Q4 l [Download](https://huggingface.co/NousResearch/Hermes-3-Llama-3.2-3B-GGUF/blob/main/Hermes-3-Llama-3.2-3B.Q4_K_M.gguf) 
+<br/> Hermes-3 Llama 3.2 3B Q6 l [Download](https://huggingface.co/NousResearch/Hermes-3-Llama-3.2-3B-GGUF/blob/main/Hermes-3-Llama-3.2-3B.Q6_K.gguf) 
+
+<br/>
+
 > **SmolLM2 (GGUF)** <br/>
 **Info About**: 
 [Model 360M](https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF) l [Model 1.7B](https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF)
@@ -542,6 +598,8 @@ https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF/blob/main/EXAON
 
 ---
 
+<br/>
+
 ### # LLM - Chat NSFW
 
 LLM (Large Language Models) <br/>
@@ -569,6 +627,8 @@ https://huggingface.co/BeaverAI/Gemmasutra-Mini-2B-v2aa-GGUF/blob/main/Gemmasutr
 
 ---
 
+<br/>
+
 ### # LLM - Chat Code
 
 LLM (Large Language Models) <br/>
@@ -592,6 +652,8 @@ https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-c
 <br/>
 
 ---
+
+<br/>
 
 ### # LLM - Chat Vision
 
