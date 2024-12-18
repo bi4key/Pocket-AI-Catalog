@@ -1,4 +1,4 @@
-_Page Updated: **2024.12.17** by **bi4key**_
+_Page Updated: **2024.12.18** by **bi4key**_
 
 **Page work in process, so there are may some missing.**
 
@@ -309,6 +309,7 @@ This sites will be good start.
 
 > **LLM STATS Leaderboard** - [Check Results](https://llm-stats.com/)
 
+> **LLM Leaderboard | Creative Arena** - [Check Result](https://llmcreativity.vercel.app/)
 <br/>
 
 **Models:**
@@ -336,6 +337,8 @@ This sites will be good start.
 <br/>
 
 > **HugginFace l Code (GGUF)** - [Most Download](https://huggingface.co/models?library=gguf&sort=downloads&search=Code)
+
+> **Ollama l Code (GGUF)** - [Most Download](https://ollama.com/search?q=code)
 
 <br/>
 
@@ -649,6 +652,18 @@ https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-c
 https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF/blob/main/qwen2.5-coder-1.5b-instruct-q8_0.gguf)
 <br/> Qwen 2.5 Code 3B Instruct Q5 l [Download](https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GGUF/blob/main/qwen2.5-coder-3b-instruct-q5_0.gguf)
 
+> **Qwen 2.5 (GGUF)** <br/>
+**Info About**: 
+[Model 7B](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF) l 
+[Model 14B](https://huggingface.co/Qwen/Qwen2.5-Coder-14B-Instruct-GGUF) l 
+[Model 32B](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct-GGUF)
+
+> Qwen2.5-Coder-7B-Instruct l 
+[Model 7B](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF)
+<br/> Qwen2.5-Coder-14B-Instruct l 
+[Model 14B](https://huggingface.co/Qwen/Qwen2.5-Coder-14B-Instruct-GGUF)
+<br/> Qwen2.5-Coder-32B-Instruct l 
+[Model 32B](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct-GGUF)
 <br/>
 
 ---
@@ -678,7 +693,10 @@ https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF/blob/main/qwen2.5-c
 
 <br/>
 
-If you'd like to support my business, you can send cryptocurrency directly to my wallets listed below:
+If you'd like to support my work, you can:
+- Share/tell this project to your friend or social media forum
+- Give me a star on GitHub page
+- Send cryptocurrency donate directly to my wallets listed below
 
 ### Bitcoin (BTC)
 - Address: `your_btc_address_here`
