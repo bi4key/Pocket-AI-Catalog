@@ -1,4 +1,4 @@
-_Page Updated: **2024.12.18** by **bi4key**_
+_Page Updated: **2024.12.20** by **bi4key**_
 
 **Page work in process, so there are may some missing.**
 
@@ -134,35 +134,39 @@ List of Chat AI.
 
 <br/>
 
-> **OPENAI** - https://openai.com/  
+> **OpenAI** - https://openai.com/  
 
 <br/>
 
-> **GEMINI** - https://gemini.google.com/ 
+> **Claude** - https://claude.ai/
 
 <br/>
 
-> **GROK** - https://x.ai/ 
+> **Gemini** - https://gemini.google.com/ 
 
 <br/>
 
-> **PERPLEXITY** - https://www.perplexity.ai/ 
+> **Grok** - https://x.ai/ 
 
 <br/>
 
-> **BING** - https://www.bing.com/chat 
+> **Perplexity** - https://www.perplexity.ai/ 
 
 <br/>
 
-> **META** - https://www.meta.ai/ 
+> **Bing** - https://www.bing.com/chat 
 
 <br/>
 
-> **GROQ** - https://groq.com/ 
+> **Meta** - https://www.meta.ai/ 
 
 <br/>
 
-> **YOU** - https://you.com/
+> **Groq** - https://groq.com/ 
+
+<br/>
+
+> **You** - https://you.com/
 
 <br/>
 
@@ -265,23 +269,23 @@ Most popular Api App.
 
 <br/>
 
-> **OPENAI** - https://openai.com/ 
+> **OpenAI** - https://openai.com/ 
 
 <br/>
 
-> **ANTROPIC** - https://www.anthropic.com/ 
+> **Claude (Antropic)** - https://www.anthropic.com/ 
 
 <br/>
 
-> **GEMINI** - https://gemini.google.com/ 
+> **Gemini** - https://gemini.google.com/ 
 
 <br/>
 
-> **GROK** - https://x.ai/ 
+> **Grok** - https://x.ai/ 
 
 <br/>
 
-> **GROQ** - https://groq.com/ 
+> **Groq** - https://groq.com/ 
 
 <br/>
 
