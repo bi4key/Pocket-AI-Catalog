@@ -564,8 +564,8 @@ Qwen 2.5 0.5B Instruct Q8 l [Download](https://huggingface.co/Qwen/Qwen2.5-0.5B-
 
 > **Phi 3.5 (GGUF)** <br/>
 **Info About**: 
- [Model 3.8B](https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF) <br/> <br/>
-Phi 3.5 mini Instruct Q4 l [Download](https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF/blob/main/Phi-3.5-mini-instruct.Q4_K_M.gguf) 
+ [Model 3.8B](https://huggingface.co/bartowski/Phi-3.5-mini-instruct-GGUF) <br/> <br/>
+Phi 3.5 mini Instruct Q4 l [Download](https://huggingface.co/bartowski/Phi-3.5-mini-instruct-GGUF/blob/main/Phi-3.5-mini-instruct-Q4_K_M.gguf) 
 
 <br/>
 
