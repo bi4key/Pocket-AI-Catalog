@@ -1,4 +1,4 @@
-_Page Updated: **2024.12.20** by **bi4key**_
+_Page Updated: **2024.12.26** by **bi4key**_
 
 **Page work in process, so there are may some missing.**
 
@@ -349,6 +349,12 @@ This sites will be good start.
 > **HugginFace l Vision (GGUF)** - [Most Download](https://huggingface.co/models?library=gguf&sort=downloads&search=Vision)
 
 > **Ollama l Vision (GGUF)** - [Most Download](https://ollama.com/search?c=vision)
+
+<br/>
+
+**VRAM Calculator:**
+
+> **LLM Model Calculator** -  https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator
 
 <br/>
 
